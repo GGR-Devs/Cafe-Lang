@@ -1305,88 +1305,88 @@ Apenas disponível por tempo limitado!"  />
 			<text id="preparestep_whitechocmousse_vanilla" name="Raspar baunilha"  />
 		</preparestep_fancy>
 		<recipe>
-			<text id="recipe_bananasplit" name="Bananasplit"  />
-			<text id="recipe_beefstew" name="Carne ensopada"  />
-			<text id="recipe_blackforestcherrycake" name="bolo floresta negra"  />
+			<text id="recipe_bananasplit" name="Banana Split"  />
+			<text id="recipe_beefstew" name="Carne Ensopada"  />
+			<text id="recipe_blackforestcherrycake" name="Bolo Floresta Negra"  />
 			<text id="recipe_cheeseburger" name="X-Burger"  />
-			<text id="recipe_cheesedish" name="Tábua de queijos"  />
-			<text id="recipe_cheesefondue" name="Fondue de queijo"  />
-			<text id="recipe_cherriecake" name="Bolo de cereja"  />
-			<text id="recipe_cherrycompote" name="compota de cereja"  />
-			<text id="recipe_chickenburger" name="Hamburger de frango"  />
-			<text id="recipe_chickensalad" name="Salada de frango"  />
-			<text id="recipe_chickensoup" name="Ensopado de galinha"  />
+			<text id="recipe_cheesedish" name="Tábua de Queijos"  />
+			<text id="recipe_cheesefondue" name="Fondue de Queijo"  />
+			<text id="recipe_cherriecake" name="Bolo de Cereja"  />
+			<text id="recipe_cherrycompote" name="Compota de cereja"  />
+			<text id="recipe_chickenburger" name="Hamburger de Frango"  />
+			<text id="recipe_chickensalad" name="Salada de Frango"  />
+			<text id="recipe_chickensoup" name="Ensopado de Galinha"  />
 			<text id="recipe_chiliconcarne" name="Chili con Carne"  />
-			<text id="recipe_chocmousse" name="Mousse de chocolate"  />
-			<text id="recipe_chocolatecake" name="Bolo de chocolate"  />
-			<text id="recipe_chocolatecheesecake" name="Cheesecake de chocolate"  />
-			<text id="recipe_chocolatefondue" name="Fondue de chocolate"  />
-			<text id="recipe_christmasturkey" name="Assado de Natal"  />
-			<text id="recipe_cookieplate" name="Prato de biscoitos"  />
-			<text id="recipe_cornonthecob" name="Espiga de milho"  />
+			<text id="recipe_chocmousse" name="Mousse de Chocolate"  />
+			<text id="recipe_chocolatecake" name="Bolo de Chocolate"  />
+			<text id="recipe_chocolatecheesecake" name="Cheesecake de Chocolate"  />
+			<text id="recipe_chocolatefondue" name="Fondue de Chocolate"  />
+			<text id="recipe_christmasturkey" name="Peru de Natal"  />
+			<text id="recipe_cookieplate" name="Prato de Biscoitos"  />
+			<text id="recipe_cornonthecob" name="Espiga de Milho"  />
 			<text id="recipe_curry" name="Curry"  />
-			<text id="recipe_duckalorange" name="Pato á l'Orange"  />
-			<text id="recipe_easterdish" name="Prato de páscoa"  />
-			<text id="recipe_englishbreakfast" name="Café da manhã inglês"  />
-			<text id="recipe_fishandchips" name="Peixe com batatas fritas"  />
-			<text id="recipe_friedpotatoes" name="Batatas fritas"  />
-			<text id="recipe_fruitpudding" name="Bolo de frutas"  />
-			<text id="recipe_fruitsalad" name="Salada de frutas"  />
-			<text id="recipe_greensalad" name="Salada jardineira"  />
-			<text id="recipe_gumbo" name="Sopa de frutos do mar e carne"  />
+			<text id="recipe_duckalorange" name="Pato com Laranja"  />
+			<text id="recipe_easterdish" name="Prato de Páscoa"  />
+			<text id="recipe_englishbreakfast" name="Café da Manhã Inglês"  />
+			<text id="recipe_fishandchips" name="Peixe com Batatas Fritas"  />
+			<text id="recipe_friedpotatoes" name="Batatas Fritas"  />
+			<text id="recipe_fruitpudding" name="Bolo de Frutas"  />
+			<text id="recipe_fruitsalad" name="Salada de Frutas"  />
+			<text id="recipe_greensalad" name="Salada Jardineira"  />
+			<text id="recipe_gumbo" name="Sopa de Frutos do Mar e Carne"  />
 			<text id="recipe_hamburger" name="Hambúrger"  />
-			<text id="recipe_hotcherrywaffles" name="Waffles com calda de cerejas quente"  />
-			<text id="recipe_jamspongepudding" name="Pudim com geléia"  />
+			<text id="recipe_hotcherrywaffles" name="Waffles com Calda de Cerejas"  />
+			<text id="recipe_jamspongepudding" name="Pudim com Geléia"  />
 			<text id="recipe_lasagne" name="Lasanha"  />
-			<text id="recipe_macncheese" name="Macarrão com molho de queijo"  />
-			<text id="recipe_maplepancakes" name="Panqueca com melado"  />
-			<text id="recipe_marblecake" name="Bolo mármore"  />
-			<text id="recipe_mexicansalad" name="Salada de feijão mexicano"  />
+			<text id="recipe_macncheese" name="Macarrão com Molho de Queijo"  />
+			<text id="recipe_maplepancakes" name="Panqueca com Xarope de Bordo"  />
+			<text id="recipe_marblecake" name="Bolo Mármore"  />
+			<text id="recipe_mexicansalad" name="Salada de Feijão Mexicano"  />
 			<text id="recipe_minestrone" name="Minestrone"  />
-			<text id="recipe_mixedsalad" name="Salada mista"  />
-			<text id="recipe_nasigoreng" name="Frango Xadrez"  />
+			<text id="recipe_mixedsalad" name="Salada Mista"  />
+			<text id="recipe_nasigoreng" name="Bolinha de Arroz Frito"  />
 			<text id="recipe_newyorkcheesecake" name="Cheesecake Nova Iorque"  />
-			<text id="recipe_noodlesalad" name="Salada de macarrão"  />
+			<text id="recipe_noodlesalad" name="Salada de Macarrão"  />
 			<text id="recipe_omelette" name="Omelete"  />
-			<text id="recipe_onionsoup" name="Sopa de cebola gratinada"  />
-			<text id="recipe_peasoup" name="Sopa de ervilha"  />
+			<text id="recipe_onionsoup" name="Sopa de Cebola"  />
+			<text id="recipe_peasoup" name="Sopa de Ervilha"  />
 			<text id="recipe_pizza" name="Pizza"  />
 			<text id="recipe_pizzahawaii" name="Pizza Havaí"  />
-			<text id="recipe_pizzatonno" name="Pizza de atum"  />
-			<text id="recipe_porkroastwithcrackling" name="Carne assada"  />
-			<text id="recipe_potatosalad" name="Salada de batatas"  />
-			<text id="recipe_redberrycompote" name="Pudim de frutas vermelhas"  />
-			<text id="recipe_ricepudding" name="Arroz doce com purê de maçã"  />
-			<text id="recipe_roastchicken" name="Frango assado"  />
+			<text id="recipe_pizzatonno" name="Pizza de Atum"  />
+			<text id="recipe_porkroastwithcrackling" name="Carne Assada"  />
+			<text id="recipe_potatosalad" name="Salada de Batatas"  />
+			<text id="recipe_redberrycompote" name="Pudim de Frutas Vermelhas"  />
+			<text id="recipe_ricepudding" name="Arroz Doce com Purê de Maçã"  />
+			<text id="recipe_roastchicken" name="Frango Assado"  />
 			<text id="recipe_sandwich" name="Sanduíche"  />
 			<text id="recipe_scouse" name="Labskaus"  />
-			<text id="recipe_spagetti" name="Espagueti a bolonhesa"  />
-			<text id="recipe_spareribs" name="Costelas marinadas"  />
+			<text id="recipe_spagetti" name="Espagueti à Bolonhesa"  />
+			<text id="recipe_spareribs" name="Costelas Marinadas"  />
 			<text id="recipe_steak" name="Steak"  />
-			<text id="recipe_steakkidneypie" name="Steak e torta de feijão"  />
-			<text id="recipe_stewedrhubarb" name="Compota de ruibarbo"  />
-			<text id="recipe_strawberrycake" name="Bolo de morangos"  />
-			<text id="recipe_strawberrymousse" name="Mousse de morango"  />
-			<text id="recipe_stuffedpeppers" name="Pimentão recheado"  />
-			<text id="recipe_sundayfeast" name="Comida de domingo"  />
+			<text id="recipe_steakkidneypie" name="Torna de Carne e Rim"  />
+			<text id="recipe_stewedrhubarb" name="Compota de Ruibarbo"  />
+			<text id="recipe_strawberrycake" name="Bolo de Murango"  />
+			<text id="recipe_strawberrymousse" name="Mousse de Morango"  />
+			<text id="recipe_stuffedpeppers" name="Pimentão Recheado"  />
+			<text id="recipe_sundayfeast" name="Banquete Dominical"  />
 			<text id="recipe_sushi" name="Sushi"  />
-			<text id="recipe_toadinahole" name="Torta de salsicha"  />
-			<text id="recipe_toast" name="Torrada Hawaí"  />
-			<text id="recipe_tofuburger" name="Hambúrguer de tofu"  />
-			<text id="recipe_tomatosoup" name="Sopa de tomate"  />
+			<text id="recipe_toadinahole" name="Torta de Salsicha"  />
+			<text id="recipe_toast" name="Torrada Havaí"  />
+			<text id="recipe_tofuburger" name="Hambúrguer de Tofu"  />
+			<text id="recipe_tomatosoup" name="Sopa de Tomate"  />
 			<text id="recipe_trifle" name="Trifle"  />
-			<text id="recipe_veganstirfry" name="Frigideira vegetariana"  />
-			<text id="recipe_vegetablesoup" name="Sopa de legumes"  />
-			<text id="recipe_veggiecurry" name="Curry de legumes"  />
-			<text id="recipe_veggielasagne" name="Lasanha de legumes"  />
-			<text id="recipe_whitechoccheesecake" name="Cheesecake de choc branco"  />
-			<text id="recipe_whitechocmousse" name="Mousse de chocolate branco"  />
+			<text id="recipe_veganstirfry" name="Fritura Vegetariana"  />
+			<text id="recipe_vegetablesoup" name="Sopa de Legumes"  />
+			<text id="recipe_veggiecurry" name="Curry de Legumes"  />
+			<text id="recipe_veggielasagne" name="Lasanha de Legumes"  />
+			<text id="recipe_whitechoccheesecake" name="Cheesecake de Choc. Branco"  />
+			<text id="recipe_whitechocmousse" name="Mousse de Chocolate Branco"  />
 		</recipe>
 		<recipes_fastfood>
-			<text id="recipe_smoothiemaker_greensmoothie" name="batida verde"  />
-			<text id="recipe_smoothiemaker_kiba" name="Batida de banana e cereja"  />
-			<text id="recipe_smoothiemaker_pinacolada" name="Virgem Colada"  />
-			<text id="recipe_smoothiemaker_tomatojuice" name="suco de tomate"  />
+			<text id="recipe_smoothiemaker_greensmoothie" name="Suco Verde"  />
+			<text id="recipe_smoothiemaker_kiba" name="Vitamina de Banana e Cereja"  />
+			<text id="recipe_smoothiemaker_pinacolada" name="Piña Colada"  />
+			<text id="recipe_smoothiemaker_tomatojuice" name="Suco de Tomate"  />
 		</recipes_fastfood>
 		<server>
 			<mail>
@@ -1405,7 +1405,7 @@ Apenas disponível por tempo limitado!"  />
 			<text id="btn_text_no" name="Não"  />
 			<text id="btn_text_notaccept" name="Rejeitar"  />
 			<text id="btn_text_okay" name="Okay"  />
-			<text id="btn_text_payment" name="comprar ouro/Cafédólar"  />
+			<text id="btn_text_payment" name="comprar ouro/Cafédólares"  />
 			<text id="btn_text_share" name="Conte aos seus amigos!"  />
 			<text id="btn_text_srchips" name="Receber Cafédólares"  />
 			<text id="btn_text_srgold" name="Ganhar ouro"  />
@@ -1416,19 +1416,19 @@ Apenas disponível por tempo limitado!"  />
 			<text id="tt_Basic_Achievement_Boughtingredients" name="Quantidade de ingredientes comprados"  />
 			<text id="tt_Basic_Achievement_Cookingcount" name="Número de pratos preparados"  />
 			<text id="tt_Basic_Achievement_Coopcount" name="Número de cooperações completadas"  />
-			<text id="tt_Basic_Achievement_Coopgoldcount" name="Número de cooperações completadas com estatus de ouro"  />
+			<text id="tt_Basic_Achievement_Coopgoldcount" name="Número de cooperações completadas com status de ouro"  />
 			<text id="tt_Basic_Achievement_Curiercount" name="Quantidade de pedidos de entrega"  />
 			<text id="tt_Basic_Achievement_Differentdishes" name="Número de diferentes pratos preparados"  />
 			<text id="tt_Basic_Achievement_Earnedchips" name="Cafédólares ganhos"  />
 			<text id="tt_Basic_Achievement_Fancycount" name="Número de ingredientes especiais utilizados"  />
-			<text id="tt_Basic_Achievement_Firenpc" name="Quantidade de garçons demitidos"  />
+			<text id="tt_Basic_Achievement_Firenpc" name="Quantidade de funcionários demitidos"  />
 			<text id="tt_Basic_Achievement_Instantcount" name="Número de pratos instantâneos preparados"  />
-			<text id="tt_Basic_Achievement_Jobclean" name="Pratos limpos em trabalhos de garçom"  />
-			<text id="tt_Basic_Achievement_Jobserve" name="Pratos servidos em trabalhos como garçom"  />
-			<text id="tt_Basic_Achievement_Masteies" name="Número de estrelas alcançadas"  />
-			<text id="tt_Basic_Achievement_Masteriesgold" name="Quantidade de estrelas-ouro conseguida"  />
-			<text id="tt_Basic_Achievement_Muffinmancash" name="Cafédólares ganhos no Assador de Muffin"  />
-			<text id="tt_Basic_Achievement_Muffinmangold" name="Ouro ganho no assador de muffin"  />
+			<text id="tt_Basic_Achievement_Jobclean" name="Pratos limpos trabalhando como garçon ou garçonete"  />
+			<text id="tt_Basic_Achievement_Jobserve" name="Pratos servidos trabalhando como garçon ou garçonete"  />
+			<text id="tt_Basic_Achievement_Masteies" name="Número de estrelas conquistadas"  />
+			<text id="tt_Basic_Achievement_Masteriesgold" name="Quantidade de estrelas douradas conquistadas"  />
+			<text id="tt_Basic_Achievement_Muffinmancash" name="Cafédólares ganhos no Homem dos Bolinhos"  />
+			<text id="tt_Basic_Achievement_Muffinmangold" name="Ouro ganho no Homem dos Bolinhos"  />
 			<text id="tt_Basic_Achievement_Overcookedfoods" name="Quantidade de pratos estragados"  />
 			<text id="tt_Basic_Achievement_Servingcountmeals" name="Número de pratos principais preparados"  />
 			<text id="tt_Basic_Achievement_Servingcountsalads" name="Número de saladas preparadas"  />
@@ -1443,20 +1443,20 @@ Apenas disponível por tempo limitado!"  />
 			<text id="tt_Basic_Achievement_Wheeloffortune" name="Número de partidas ganhas na roda da fortuna"  />
 			<text id="tt_byAmount" name="{0} de {1}"  />
 			<text id="tt_byLevel" name="a partir do nível {0}"  />
-			<text id="tt_CafeActionPanel_btn_achievements" name="Premiações"  />
-			<text id="tt_CafeActionPanel_btn_cookbook" name="Livro de receitas"  />
+			<text id="tt_CafeActionPanel_btn_achievements" name="Conquistas"  />
+			<text id="tt_CafeActionPanel_btn_cookbook" name="Livro de Receitas"  />
 			<text id="tt_CafeActionPanel_btn_coop" name="Cooperações"  />
-			<text id="tt_CafeActionPanel_btn_decoshop" name="Construir"  />
+			<text id="tt_CafeActionPanel_btn_decoshop" name="Modo Decoração"  />
 			<text id="tt_CafeActionPanel_btn_gifts" name="Presentes"  />
 			<text id="tt_CafeActionPanel_btn_ingredientshop" name="Ingredientes"  />
 			<text id="tt_CafeActionPanel_btn_market" name="Mercado"  />
 			<text id="tt_CafeActionPanel_btn_owncafe" name="Meu Café"  />
 			<text id="tt_CafeActionPanel_btn_staff" name="Funcionários"  />
-			<text id="tt_CafeAvatarCreationDialog_btn_bottoms" name="Calças"  />
-			<text id="tt_CafeAvatarCreationDialog_btn_boy" name="Menino"  />
-			<text id="tt_CafeAvatarCreationDialog_btn_girl" name="Menina"  />
+			<text id="tt_CafeAvatarCreationDialog_btn_bottoms" name="Partes de Baixo"  />
+			<text id="tt_CafeAvatarCreationDialog_btn_boy" name="Rapaz"  />
+			<text id="tt_CafeAvatarCreationDialog_btn_girl" name="Moça"  />
 			<text id="tt_CafeAvatarCreationDialog_btn_hair" name="Cor do cabelo"  />
-			<text id="tt_CafeAvatarCreationDialog_btn_skin" name="cor da pele"  />
+			<text id="tt_CafeAvatarCreationDialog_btn_skin" name="Tom de pele"  />
 			<text id="tt_CafeAvatarCreationDialog_btn_tops" name="Camisetas"  />
 			<text id="tt_CafeClearStoveDialog_btn_instantcook" name="Terminar de cozinhar agora"  />
 			<text id="tt_CafeClearStoveDialog_btn_instantcook_na" name="Hoje você não pode mais 'terminar de cozinhar agora'"  />
@@ -1468,13 +1468,13 @@ Apenas disponível por tempo limitado!"  />
 			<text id="tt_CafeCookBookDialog_4" name="Vegetais"  />
 			<text id="tt_CafeCookBookDialog_5" name="Petiscos"  />
 			<text id="tt_CafeCookBookDialog_btn_cook" name="Cozinhar"  />
-			<text id="tt_CafeCookBookDialog_btn_cook_disabled" name="Está faltando ingredientes!"  />
-			<text id="tt_CafeCookBookDialog_btn_mastery" name="ainda {0} até nível de estrela {1} Clique para detalhes"  />
+			<text id="tt_CafeCookBookDialog_btn_cook_disabled" name="Estão faltando ingredientes!"  />
+			<text id="tt_CafeCookBookDialog_btn_mastery" name="Faltam {0} até conseguir o nivel {1} de estrela. Clique para detalhes"  />
 			<text id="tt_CafeCookBookDialog_btn_shop" name="Ingredientes"  />
 			<text id="tt_CafeDekoShopPanel_btn_close" name="Voltar ao Café"  />
-			<text id="tt_CafeDekoShopPanel_btn_deko" name="Organizar"  />
+			<text id="tt_CafeDekoShopPanel_btn_deko" name="Móveis e Paredes/Pisos"  />
 			<text id="tt_CafeDekoShopPanel_btn_deko_Chair" name="Cadeiras"  />
-			<text id="tt_CafeDekoShopPanel_btn_deko_Deko" name="Decoração"  />
+			<text id="tt_CafeDekoShopPanel_btn_deko_Deko" name="Decorações"  />
 			<text id="tt_CafeDekoShopPanel_btn_deko_Door" name="Portas"  />
 			<text id="tt_CafeDekoShopPanel_btn_deko_Table" name="Mesas"  />
 			<text id="tt_CafeDekoShopPanel_btn_deko_Tiles" name="Pisos"  />
@@ -1486,10 +1486,10 @@ Apenas disponível por tempo limitado!"  />
 			<text id="tt_CafeDekoShopPanel_btn_functional_Extras" name="Extra"  />
 			<text id="tt_CafeDekoShopPanel_btn_functional_Fridge" name="Geladeiras"  />
 			<text id="tt_CafeDekoShopPanel_btn_functional_Stove" name="Fogões"  />
-			<text id="tt_CafeDekoShopPanel_btn_invitefriends" name="Você ainda precisa de {0} amigos de rede para comprar esta ampliação!"  />
+			<text id="tt_CafeDekoShopPanel_btn_invitefriends" name="Você ainda precisa de {0} amigos para comprar esta ampliação!"  />
 			<text id="tt_CafeDekoShopPanel_btn_sell" name="Puxar objeto a ser vendido pra cá"  />
 			<text id="tt_CafeDekoShopPanel_cashexpansion" name="Você precisa ter atingido o nível {0} para comprar esta ampliação com cafédólares."  />
-			<text id="tt_CafeDekoShopPanel_dragItem" name="Posicione-me em seu Café"  />
+			<text id="tt_CafeDekoShopPanel_dragItem" name="Me coloque no seu Café"  />
 			<text id="tt_CafeDekoShopPanel_invalidexpansion" name="Você precisa ter a ampliação anterior antes de adquirir a próxima."  />
 			<text id="tt_CafeIngredientShopDialog_btn_addcash" name="Adicionar Cafédólares/ouro"  />
 			<text id="tt_CafeIngredientShopDialog_btn_all" name="Tudo"  />
@@ -1497,10 +1497,10 @@ Apenas disponível por tempo limitado!"  />
 			<text id="tt_CafeIngredientShopDialog_btn_cat1" name="Animal"  />
 			<text id="tt_CafeIngredientShopDialog_btn_cat2" name="Legumes"  />
 			<text id="tt_CafeIngredientShopDialog_btn_cat3" name="Frutas"  />
-			<text id="tt_CafeIngredientShopDialog_btn_cat4" name="Ingredientes extravagantes"  />
+			<text id="tt_CafeIngredientShopDialog_btn_cat4" name="Ingredientes especiais"  />
 			<text id="tt_CafeIngredientShopDialog_btn_cat5" name="Outros"  />
 			<text id="tt_CafeIngredientShopDialog_btn_fridge" name="Geladeira"  />
-			<text id="tt_CafeIngredientShopDialog_btn_help" name="O que são ingredientes extravagantes?"  />
+			<text id="tt_CafeIngredientShopDialog_btn_help" name="O que são ingredientes especiais?"  />
 			<text id="tt_CafeIngredientShopDialog_btn_sell" name="Vender"  />
 			<text id="tt_CafeIngredientShopDialog_btn_shop" name="Mercado de ingredientes"  />
 			<text id="tt_CafeIngredientShopDialog_btn_unlock" name="Entrega"  />
@@ -1532,47 +1532,47 @@ na roda da fortuna!"  />
 			<text id="tt_CafeOptionPanel_btn_sound" name="Som"  />
 			<text id="tt_CafeOptionPanel_btn_support" name="Suporte"  />
 			<text id="tt_CafeOptionPanel_btn_verifyemail" name="Retirar prêmio"  />
-			<text id="tt_CafeOptionPanel_btn_wantfriends" name="Admitir pedido de amizade"  />
-			<text id="tt_CafeOptionPanel_btn_zoom" name="zoom"  />
-			<text id="tt_CafeOptionPanel_btn_zoomIn" name="aumentar"  />
-			<text id="tt_CafeOptionPanel_btn_zoomOut" name="diminuir"  />
+			<text id="tt_CafeOptionPanel_btn_wantfriends" name="Permitir pedidos de amizade"  />
+			<text id="tt_CafeOptionPanel_btn_zoom" name="Zoom"  />
+			<text id="tt_CafeOptionPanel_btn_zoomIn" name="Aumentar"  />
+			<text id="tt_CafeOptionPanel_btn_zoomOut" name="Diminuir"  />
 			<text id="tt_CafeRegisterPanel_btn_register" name="Salvar e registrar"  />
 			<text id="tt_CafeSmoothiemaker_btn_mix" name="Misturar"  />
-			<text id="tt_CafeSmoothiemaker_serve" name="servir bebida"  />
+			<text id="tt_CafeSmoothiemaker_serve" name="Servir bebida"  />
 			<text id="tt_CafeSocialPanel_btn_buddies" name="Amigos"  />
 			<text id="tt_CafeSocialPanel_btn_buddiesincafe" name="Jogadores online"  />
 			<text id="tt_CafeSocialPanel_btn_chat" name="Bate-papo"  />
 			<text id="tt_CafeSocialPanel_btn_findbuddies" name="Convidar amigos"  />
 			<text id="tt_CafeSocialPanel_btn_muteplayer" name="Mudo"  />
-			<text id="tt_CafeStaffDialog_rename" name="Mudar nome do garçon"  />
+			<text id="tt_CafeStaffDialog_rename" name="Mudar nome do(a) garçon/garçonete"  />
 			<text id="tt_CafeUserStatePanel_btn_adddollar" name="Adicionar Cafédólares/ouro"  />
 			<text id="tt_CafeUserStatePanel_btn_refill" name="Recarregar permissões de trabalho"  />
-			<text id="tt_CafeUserStatePanel_xpMouseOverlay" name="{0} XP até o próximo nível"  />
+			<text id="tt_CafeUserStatePanel_xpMouseOverlay" name="{0} XP até o próximo nível. Você consegue!"  />
 			<text id="tt_CafeUserStatePanel_xpMouseOverlay_2" name="XP"  />
-			<text id="tt_highscore_luxury" name="Ordenar por valor de luxo"  />
-			<text id="tt_highscore_xp" name="Ordenar por XP"  />
-			<text id="tt_PlayerActionChoicesComponent_btn_achievements" name="Premiações"  />
+			<text id="tt_highscore_luxury" name="Classificar por valor de luxo"  />
+			<text id="tt_highscore_xp" name="Classificar por XP"  />
+			<text id="tt_PlayerActionChoicesComponent_btn_achievements" name="Conquistas"  />
 			<text id="tt_PlayerActionChoicesComponent_btn_addfriend" name="Pedido de amizade"  />
 			<text id="tt_PlayerActionChoicesComponent_btn_info" name="Informação"  />
 			<text id="tt_PlayerActionChoicesComponent_btn_job" name="Ajustar"  />
-			<text id="tt_PlayerActionChoicesComponent_btn_kick" name="Clicar"  />
-			<text id="tt_PlayerActionChoicesComponent_btn_removebuddy" name="Encerrar amizade"  />
+			<text id="tt_PlayerActionChoicesComponent_btn_kick" name="Expulsar"  />
+			<text id="tt_PlayerActionChoicesComponent_btn_removebuddy" name="Desfazer amizade"  />
 			<text id="tt_PlayerActionChoicesComponent_btn_visit" name="Visitar Café"  />
-			<text id="tt_Social_Achievement_Friendscount" name="Quantidade de amigos em sua rede"  />
+			<text id="tt_Social_Achievement_Friendscount" name="Quantidade de amigos que você tem"  />
 		</tooltips>
 		<tutorial>
 			<text id="tut_buymissingingredient_copy" name="No '0' ao lado da geladeira pequena em cebolas, você pode ver que você não tem mais nenhuma na sua geladeira. \nAbaixo você vê o preço. \nCompre cebolas!"  />
 			<text id="tut_cafeopen_copy" name="Ótimo! Os primeiros clientes não vão demorar a chegar.\nAgora você já sabe tudo que precisa saber para começar. Dê ainda uma olhada por aí.\n\nDivirta-se!"  />
 			<text id="tut_cookmeal_copy" name="Agora vamos ao que interessa! \nMostre à salada o que você sabe!"  />
 			<text id="tut_cookopenshop_copy" name="Aqui estão os pratos com informações sobre ingredientes necessários, tempo de preparo e lucro.\nOh não! Você não tem mais cebolas para a salada - mas você pode comprar algumas."  />
-			<text id="tut_cookpreparecook_copy" name="O mais importante é a comida. Vamos preparar uma salada. Clique no fogão!"  />
-			<text id="tut_instantcook2_copy" name="Utilize 'terminar de cozinhar agora'.\nIsso custa dinheiro e extremamente prático."  />
+			<text id="tut_cookpreparecook_copy" name="O mais importante é a comida. Vamos preparar uma salada no fogão. Os fogões podem fazer qualquer tipo de comida. Clique no fogão!"  />
+			<text id="tut_instantcook2_copy" name="Utilize 'terminar de cozinhar agora'.\nIsso custa ouro mas é extremamente prático."  />
 			<text id="tut_instantcook_copy" name="Normalmente a salada demora três minutos até ficar pronta. Porém existe a possibilidade de encurtar esse tempo, coisa que vamos fazer agora."  />
 			<text id="tut_preparesteps_copy" name="Clique algumas vezes no fogão para seguir os passos de preparo."  />
-			<text id="tut_servedish_copy" name="Muito bem!\nAgora você só precisa servir a comida.\nAs dez porções não vão durar muito tempo, por isso não se esqueça de providenciar mais."  />
-			<text id="tut_start_copy" name="Bem vindo ao seu Café, {0}!\nEssa introdução curta vai te ajudar a entender o mundo maravilhoso da gastronomia."  />
+			<text id="tut_servedish_copy" name="Muito bem!\nAgora você só precisa servir a comida.\nAs dez porções não vão durar muito tempo, por isso não se esqueça de providenciar mais pratos. Que tal um Omelete agora? Te vejo por aí!"  />
+			<text id="tut_start_copy" name="Bem vindo ao seu Café, {0}!\nÉ muito bom ter você de volta ou pela primeira vez. Esse tutorial rápido vai te ajudar a entender o mundo maravilhoso da gastronomia."  />
 			<text id="tut_title" name="Instruções!"  />
-			<text id="tut_welcome_title" name="Bem vindo!"  />
+			<text id="tut_welcome_title" name="Bem vindo(a)!"  />
 		</tutorial>
 		<generic_flash>
 			<alert>
