@@ -52,7 +52,7 @@
 			<text id="alert_clearstove_title" name="Um prato está sendo servido desse balcão. Você gostaria de mantê-lo?"  />
 			<text id="alert_counter_outofreach_copy" name="Balcão fora de alcance. Tente mudar algo de lugar!"  />
 			<text id="alert_counter_outofreach_title" name="Atenção!"  />
-			<text id="alert_dekoshop_humanwaiter_copy" name="Enquanto houver outros jogadores trabalhando no seu Café você não pode entrar no Modo Decoração."  />
+			<text id="alert_dekoshop_humanwaiter_copy" name="Enquanto houver outros jogadores trabalhando no seu Café você não pode entrar no Modo Construção."  />
 			<text id="alert_dekoshop_humanwaiter_title" name="De jeito nenhum!"  />
 			<text id="alert_dekoshop_kickplayer_copy" name="Ainda há jogadores em seu Café. Se você quiser decorar agora, expulse os jogadores do seu Café."  />
 			<text id="alert_dekoshop_kickplayer_title" name="Atenção!"  />
@@ -103,7 +103,7 @@
 			<text id="alert_marketplace_playerleaved_title" name="Sumiu!"  />
 			<text id="alert_nofreecounter_copy" name="Não tem balcão livre."  />
 			<text id="alert_nofreecounter_title" name="Opa!"  />
-			<text id="alert_nofridge_copy" name="Você não tem geladeira no seu Café. Dê uma olhada no Modo Decoração e coloque uma geladeira em seu Café."  />
+			<text id="alert_nofridge_copy" name="Você não tem geladeira no seu Café. Dê uma olhada no Modo Construção e coloque uma geladeira em seu Café."  />
 			<text id="alert_nofridge_title" name="Não tem geladeira?"  />
 			<text id="alert_nojobpermission_copy" name="Você precisa de uma permissão de trabalho se quiser procurar por um emprego."  />
 			<text id="alert_nojobpermission_title" name="Atenção!"  />
@@ -489,7 +489,7 @@ Duração bronze: {3} horas"  />
 			<text id="dialogwin_ingamehelp_3_3" name="Sua popularidade define quantos clientes te visitam. Sua popularidade aumenta quando os clientes deixam o seu café satisfeitos. Ela também pode baixar quando clientes deixam o seu café insatisfeitos. Clientes ficam satisfeitos quando eles recebem algo para comer."  />
 			<text id="dialogwin_ingamehelp_3_4" name="Você recebe Café dólares através da venda de refeições. Outras possibilidades são: trabalhar como garçon, cooperações bem sucedidas e ganhar conquistas."  />
 			<text id="dialogwin_ingamehelp_3_5" name="Todos os objetos no menu de construção tem um valor de luxo. Esse valor influencia sua popularidade. Quanto mais luxuoso, mais popular!"  />
-			<text id="dialogwin_ingamehelp_3_6" name="No Modo Decoração você encontra fogões, balcões, mesas e muitos outros artigos de decoração. Seja criativo!"  />
+			<text id="dialogwin_ingamehelp_3_6" name="No Modo Construção você encontra fogões, balcões, mesas e muitos outros artigos de decoração. Seja criativo!"  />
 			<text id="dialogwin_ingamehelp_3_7" name="Se seu café ficar pequeno demais você tem a possibilidade de ampliá-lo para conseguir mais espaço para seus clientes."  />
 			<text id="dialogwin_ingamehelp_4_1" name="O que mais preciso saber?"  />
 			<text id="dialogwin_ingamehelp_4_2" name="No mercado você conhece outros jogadores, pode procurar por trabalho, bater papo, girar a roda da fortuna ou só passar o tempo."  />
@@ -659,26 +659,26 @@ Você precisa ter ao menos um prato liberado."  />
 			<text id="createavatar_error_nogender" name="Favor escolher seu personagem!"  />
 			<text id="editbuy_errorcode_1" name="Atenção!"  />
 			<text id="editbuy_errorcode_3" name="Você ainda não atingiu o nível mínimo para poder comprar esse artigo!"  />
-			<text id="editbuy_errorcode_38" name="Você só pode modificar seu Café no Modo Decoração."  />
+			<text id="editbuy_errorcode_38" name="Você só pode modificar seu Café no Modo Construção."  />
 			<text id="editbuy_errorcode_39" name="Essa posição é inválida. Posicione o objeto em um espaço livre em seu Café."  />
 			<text id="editextend_errorcode_1" name="Atenção!"  />
-			<text id="editextend_errorcode_38" name="Você só pode modificar seu Café no Modo Decoração."  />
+			<text id="editextend_errorcode_38" name="Você só pode modificar seu Café no Modo Construção."  />
 			<text id="editextend_errorcode_53" name="Você já tem essa ampliação."  />
 			<text id="editextend_errorcode_54" name="Você ainda não pode comprar essa ampliação."  />
 			<text id="editmode_errorcode_1" name="Atenção!"  />
 			<text id="editmoveobj_errorcode_1" name="Atenção!"  />
-			<text id="editmoveobj_errorcode_38" name="Você só pode modificar seu Café no Modo Decoração."  />
+			<text id="editmoveobj_errorcode_38" name="Você só pode modificar seu Café no Modo Construção."  />
 			<text id="editmoveobj_errorcode_39" name="Essa posição é inválida. Posicione o objeto em um espaço livre em seu Café."  />
 			<text id="editrotateobj_errorcode_1" name="Atenção!"  />
-			<text id="editrotateobj_errorcode_38" name="Você só pode modificar seu Café no Modo Decoração."  />
+			<text id="editrotateobj_errorcode_38" name="Você só pode modificar seu Café no Modo Construção."  />
 			<text id="editrotateobj_errorcode_39" name="Essa posição é inválida. Posicione o objeto em um espaço livre em seu Café."  />
 			<text id="editsell_errorcode_1" name="Atenção!"  />
 			<text id="editsell_errorcode_32" name="Esse artigo não se encontra em estoque."  />
-			<text id="editsell_errorcode_38" name="Você só pode modificar seu Café no Modo Decoração."  />
+			<text id="editsell_errorcode_38" name="Você só pode modificar seu Café no Modo Construção."  />
 			<text id="editsell_errorcode_39" name="Essa posição é inválida. Posicione o objeto em um espaço livre em seu Café."  />
 			<text id="editstoreobj_errorcode_1" name="Atenção!"  />
 			<text id="editstoreobj_errorcode_37" name="Sobre esse artigo ainda encontra-se um prato!"  />
-			<text id="editstoreobj_errorcode_38" name="Você só pode modificar seu Café no Modo Decoração."  />
+			<text id="editstoreobj_errorcode_38" name="Você só pode modificar seu Café no Modo Construção."  />
 			<text id="editstoreobj_errorcode_39" name="Essa posição é inválida. Posicione o objeto em um espaço livre em seu Café."  />
 			<text id="editstoreobj_errorcode_51" name="O campo está vazio, não existe nada à venda aqui."  />
 			<text id="editstoreobj_removefailmin_counter" name="Você precisa de no mínimo um balcão."  />
@@ -705,7 +705,7 @@ Você precisa ter ao menos um prato liberado."  />
 			<text id="jobrefill_errorcode_1" name="Suas permissões de trabalho estão esgotadas no momento."  />
 			<text id="jobrefill_errorcode_61" name="Você só pode recarregar uma vez por dia suas permissões de trabalho."  />
 			<text id="joincafe_error" name="Não é possível!"  />
-			<text id="joincafe_errorcode_20" name="O Café está no Modo Decoração. Aguarde as reformas terminarem!"  />
+			<text id="joincafe_errorcode_20" name="O Café está no Modo Construção. Aguarde as reformas terminarem!"  />
 			<text id="joincafe_errorcode_21" name="Você já está nesse Café!"  />
 			<text id="joincafe_errorcode_22" name="Esse Café não existe!"  />
 			<text id="level_error" name="Erro no Café. Favor informar o suporte."  />
@@ -1446,7 +1446,7 @@ Apenas disponível por tempo limitado!"  />
 			<text id="tt_CafeActionPanel_btn_achievements" name="Conquistas"  />
 			<text id="tt_CafeActionPanel_btn_cookbook" name="Livro de Receitas"  />
 			<text id="tt_CafeActionPanel_btn_coop" name="Cooperações"  />
-			<text id="tt_CafeActionPanel_btn_decoshop" name="Modo Decoração"  />
+			<text id="tt_CafeActionPanel_btn_decoshop" name="Modo Construção"  />
 			<text id="tt_CafeActionPanel_btn_gifts" name="Presentes"  />
 			<text id="tt_CafeActionPanel_btn_ingredientshop" name="Ingredientes"  />
 			<text id="tt_CafeActionPanel_btn_market" name="Mercado"  />
