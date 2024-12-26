@@ -936,26 +936,26 @@ Apenas disponível por tempo limitado!"  />
 			<text id="panelwin_social_bot" name="Bate-papo do Café"  />
 			<text id="panelwin_social_comein" name="entrou no Café"  />
 			<text id="panelwin_social_comeinmarketplace" name="chegou ao mercado"  />
-			<text id="panelwin_social_goout" name="deixou o Café"  />
-			<text id="panelwin_social_gooutmarketplace" name="deixou o mercado"  />
-			<text id="panelwin_social_noingamefriends" name="Você ainda não tem amigos!"  />
-			<text id="panelwin_social_noplayerincafe" name="No momento você está sozinho aqui."  />
+			<text id="panelwin_social_goout" name="saiu do Café"  />
+			<text id="panelwin_social_gooutmarketplace" name="saiu do mercado"  />
+			<text id="panelwin_social_noingamefriends" name="Você ainda não tem amigos! Adicione alguém!"  />
+			<text id="panelwin_social_noplayerincafe" name="No momento você está sozinho aqui. Espere alguém chegar!"  />
 			<text id="panelwin_social_say" name=":"  />
 			<text id="panelwin_social_standardanswer" name="Em breve você poderá bater papo com outros jogadores no seu café!"  />
-			<text id="panelwin_social_welcome_marketplace" name="Bem vindo! Clique no quadro negro se você está a procura de trabalho!"  />
-			<text id="panelwin_social_welcome_mycafe" name="Bem vindo"  />
+			<text id="panelwin_social_welcome_marketplace" name="Bem vindo(a)! Clique no quadro negro se você está a procura de trabalho!"  />
+			<text id="panelwin_social_welcome_mycafe" name="Bem vindo(a)"  />
 			<text id="panelwin_social_writeable" name="Só jogadores registrados a partir do nível 1 podem utilizar o bate-papo."  />
 		</panels>
 		<preparestep>
-			<text id="preparestep_bananasplit_banana" name="Descascar banana"  />
+			<text id="preparestep_bananasplit_banana" name="Descascar bananas"  />
 			<text id="preparestep_bananasplit_chocolate" name="Picar chocolate"  />
 			<text id="preparestep_bananasplit_cream" name="Bater chantilly"  />
 			<text id="preparestep_bananasplit_milk" name="Medir leite"  />
 			<text id="preparestep_bananasplit_sugar" name="Pesar açúcar"  />
-			<text id="preparestep_blackforestcherrycake_chocolate" name="ralar chocolate"  />
-			<text id="preparestep_blackforestcherrycake_cocktailcherry" name="limpar cerejas"  />
-			<text id="preparestep_blackforestcherrycake_cream" name="bater creme"  />
-			<text id="preparestep_blackforestcherrycake_flour" name="peneirar farinha"  />
+			<text id="preparestep_blackforestcherrycake_chocolate" name="Ralar chocolate"  />
+			<text id="preparestep_blackforestcherrycake_cocktailcherry" name="Limpar cerejas"  />
+			<text id="preparestep_blackforestcherrycake_cream" name="Bater creme"  />
+			<text id="preparestep_blackforestcherrycake_flour" name="Peneirar farinha"  />
 			<text id="preparestep_cheeseburger_cheese" name="Cortar queijo"  />
 			<text id="preparestep_cheeseburger_flour" name="Peneirar farinha"  />
 			<text id="preparestep_cheeseburger_mincemeat" name="Temperar carne moída"  />
@@ -965,28 +965,28 @@ Apenas disponível por tempo limitado!"  />
 			<text id="preparestep_cheesefondue_flour" name="Peneirar farinha"  />
 			<text id="preparestep_cheesefondue_garlic" name="Espremer alho"  />
 			<text id="preparestep_cherriecake_cherries" name="Cozinhar cerejas"  />
-			<text id="preparestep_cherriecake_cream" name="bater creme"  />
+			<text id="preparestep_cherriecake_cream" name="Bater creme"  />
 			<text id="preparestep_cherriecake_flour" name="Peneirar farinha"  />
-			<text id="preparestep_cherriecake_sugar" name="pesar açúcar"  />
+			<text id="preparestep_cherriecake_sugar" name="Pesar açúcar"  />
 			<text id="preparestep_cherrycompote_cherries" name="Descaroçar cerejas"  />
-			<text id="preparestep_cherrycompote_sugar" name="caramelizar açúcar"  />
+			<text id="preparestep_cherrycompote_sugar" name="Caramelizar açúcar"  />
 			<text id="preparestep_chickenburger_chicken" name="Desossar galinha"  />
-			<text id="preparestep_chickenburger_cucumber" name="Cortar Pepino"  />
-			<text id="preparestep_chickenburger_flour" name="peneirar farinha"  />
+			<text id="preparestep_chickenburger_cucumber" name="Cortar pepino"  />
+			<text id="preparestep_chickenburger_flour" name="Peneirar farinha"  />
 			<text id="preparestep_chickenburger_tomato" name="Cortar tomates"  />
 			<text id="preparestep_chickensalad_chicken" name="Preparar frango"  />
 			<text id="preparestep_chickensalad_lettuce" name="Lavar alface"  />
 			<text id="preparestep_chickensalad_onion" name="Picar cebolas"  />
 			<text id="preparestep_chickensalad_tomato" name="Cortar tomates"  />
-			<text id="preparestep_chickensoup_bacon" name="fatiar bacon"  />
-			<text id="preparestep_chickensoup_chicken" name="cortar frango"  />
-			<text id="preparestep_chickensoup_onion" name="picar cebolas"  />
+			<text id="preparestep_chickensoup_bacon" name="Fatiar bacon"  />
+			<text id="preparestep_chickensoup_chicken" name="Cortar frango"  />
+			<text id="preparestep_chickensoup_onion" name="Picar cebolas"  />
 			<text id="preparestep_chickensoup_pasta" name="Pesar macarrão"  />
-			<text id="preparestep_chiliconcarne_bacon" name="fatiar banco"  />
-			<text id="preparestep_chiliconcarne_beans" name="pôr feijão de molho"  />
+			<text id="preparestep_chiliconcarne_bacon" name="Fatiar banco"  />
+			<text id="preparestep_chiliconcarne_beans" name="Por feijão de molho"  />
 			<text id="preparestep_chiliconcarne_mincemeat" name="Temperar carne moída"  />
-			<text id="preparestep_chiliconcarne_onion" name="picar cebolas"  />
-			<text id="preparestep_chiliconcarne_tomato" name="cortar tomates"  />
+			<text id="preparestep_chiliconcarne_onion" name="Picar cebolas"  />
+			<text id="preparestep_chiliconcarne_tomato" name="Portar tomates"  />
 			<text id="preparestep_chocmousse_chocolate" name="Derreter chocolate"  />
 			<text id="preparestep_chocmousse_cream" name="Bater chantilly"  />
 			<text id="preparestep_chocmousse_eggs" name="Separar ovos"  />
@@ -994,13 +994,13 @@ Apenas disponível por tempo limitado!"  />
 			<text id="preparestep_chocolatecake_cream" name="Bater chantilly"  />
 			<text id="preparestep_chocolatecake_eggs" name="Separar ovos"  />
 			<text id="preparestep_chocolatecake_flour" name="Peneirar farinha"  />
-			<text id="preparestep_chocolatecheesecake_chocolate" name="picar chocolate"  />
-			<text id="preparestep_chocolatecheesecake_cookies" name="esmigalhar bolachas"  />
-			<text id="preparestep_chocolatecheesecake_milk" name="medir leite"  />
-			<text id="preparestep_chocolatecheesecake_quark" name="Misturar coalhada"  />
-			<text id="preparestep_chocolatefondue_chocolate" name="experimentar chocolate"  />
-			<text id="preparestep_chocolatefondue_cream" name="medir creme"  />
-			<text id="preparestep_chocolatefondue_strawberry" name="limpar morangos"  />
+			<text id="preparestep_chocolatecheesecake_chocolate" name="Picar chocolate"  />
+			<text id="preparestep_chocolatecheesecake_cookies" name="Esmigalhar bolachas"  />
+			<text id="preparestep_chocolatecheesecake_milk" name="Medir leite"  />
+			<text id="preparestep_chocolatecheesecake_quark" name="Misturar queijo"  />
+			<text id="preparestep_chocolatefondue_chocolate" name="Experimentar chocolate"  />
+			<text id="preparestep_chocolatefondue_cream" name="Medir creme"  />
+			<text id="preparestep_chocolatefondue_strawberry" name="Limpar morangos"  />
 			<text id="preparestep_christmasturkey_turkeymix" name="Preparar mistura para peru"  />
 			<text id="preparestep_christmasturkey_vegiemix" name="Descongelar legumes"  />
 			<text id="preparestep_cookieplate_butter" name="Derreter manteiga"  />
@@ -1019,8 +1019,8 @@ Apenas disponível por tempo limitado!"  />
 			<text id="preparestep_duckalorange_duck" name="Preparar pato"  />
 			<text id="preparestep_duckalorange_onion" name="Picar cebola"  />
 			<text id="preparestep_duckalorange_orange" name="Descascar laranjas"  />
-			<text id="preparestep_easterdish_chocolate" name="experimentar chocolate"  />
-			<text id="preparestep_easterdish_eggs" name="Contar ovos"  />
+			<text id="preparestep_easterdish_chocolate" name="Experimentar chocolate"  />
+			<text id="preparestep_easterdish_eggs" name="Quebrar ovos"  />
 			<text id="preparestep_englishbreakfast_beans" name="Cozinhar feijão"  />
 			<text id="preparestep_englishbreakfast_eggs" name="Bater ovos"  />
 			<text id="preparestep_englishbreakfast_flour" name="Peneirar farinha"  />
@@ -1067,12 +1067,12 @@ Apenas disponível por tempo limitado!"  />
 			<text id="preparestep_macncheese_pasta" name="Cozinhar macarrão"  />
 			<text id="preparestep_maplepancakes_eggs" name="Separar ovos"  />
 			<text id="preparestep_maplepancakes_flour" name="Peneirar farinha"  />
-			<text id="preparestep_maplepancakes_maple" name="Provar melado"  />
+			<text id="preparestep_maplepancakes_maple" name="Espalhar Xarope de Bordo"  />
 			<text id="preparestep_maplepancakes_milk" name="Medir leite"  />
 			<text id="preparestep_marblecake_butter" name="Derreter manteiga"  />
 			<text id="preparestep_marblecake_chocolate" name="Derreter chocolate"  />
-			<text id="preparestep_marblecake_flour" name="peneirar farinha"  />
-			<text id="preparestep_marblecake_sugar" name="pesar açúcar"  />
+			<text id="preparestep_marblecake_flour" name="Peneirar farinha"  />
+			<text id="preparestep_marblecake_sugar" name="Pesar açúcar"  />
 			<text id="preparestep_mexicansalad_bacon" name="Fritar bacon"  />
 			<text id="preparestep_mexicansalad_beans" name="Deixar feijão de molho"  />
 			<text id="preparestep_mexicansalad_onion" name="Fritar cebolas"  />
@@ -1084,7 +1084,7 @@ Apenas disponível por tempo limitado!"  />
 			<text id="preparestep_mixedsalad_peas" name="Cozinhar ervilhas"  />
 			<text id="preparestep_mixedsalad_sweetcorn" name="Cozinhar milho"  />
 			<text id="preparestep_mixedsalad_tomato" name="Cortar tomates"  />
-			<text id="preparestep_nasigoreng_chicken" name="Destroçar frango"  />
+			<text id="preparestep_nasigoreng_chicken" name="Cortar frango"  />
 			<text id="preparestep_nasigoreng_eggs" name="Cozinhar ovos"  />
 			<text id="preparestep_nasigoreng_onion" name="Picar cebolas"  />
 			<text id="preparestep_nasigoreng_pinapple" name="Cortar abacaxi"  />
@@ -1105,16 +1105,16 @@ Apenas disponível por tempo limitado!"  />
 			<text id="preparestep_peasoup_garlic" name="Espremer alho"  />
 			<text id="preparestep_peasoup_onion" name="Picar cebolas"  />
 			<text id="preparestep_peasoup_peas" name="Limpar ervilhas"  />
-			<text id="preparestep_pizzahawaii_bacon" name="fatiar bacon"  />
-			<text id="preparestep_pizzahawaii_cheese" name="ralar queijo"  />
+			<text id="preparestep_pizzahawaii_bacon" name="Fatiar bacon"  />
+			<text id="preparestep_pizzahawaii_cheese" name="Ralar queijo"  />
 			<text id="preparestep_pizzahawaii_flour" name="Peneirar farinha"  />
-			<text id="preparestep_pizzahawaii_pinapple" name="fatiar abacaxi"  />
-			<text id="preparestep_pizzahawaii_tomato" name="passar tomates"  />
+			<text id="preparestep_pizzahawaii_pinapple" name="Fatiar abacaxi"  />
+			<text id="preparestep_pizzahawaii_tomato" name="Passar tomates"  />
 			<text id="preparestep_pizzatonno_cheese" name="Ralar queijo"  />
-			<text id="preparestep_pizzatonno_fish" name="fatiar peixe"  />
-			<text id="preparestep_pizzatonno_flour" name="peneirar farinha"  />
-			<text id="preparestep_pizzatonno_onion" name="cortar cebolas"  />
-			<text id="preparestep_pizzatonno_tomato" name="passar tomates"  />
+			<text id="preparestep_pizzatonno_fish" name="Fatiar peixe"  />
+			<text id="preparestep_pizzatonno_flour" name="Peneirar farinha"  />
+			<text id="preparestep_pizzatonno_onion" name="Cortar cebolas"  />
+			<text id="preparestep_pizzatonno_tomato" name="Passar tomates"  />
 			<text id="preparestep_pizza_cheese" name="Ralar queijo"  />
 			<text id="preparestep_pizza_flour" name="Peneirar farinha"  />
 			<text id="preparestep_pizza_tomato" name="Amassar tomates"  />
@@ -1126,9 +1126,9 @@ Apenas disponível por tempo limitado!"  />
 			<text id="preparestep_potatosalad_oil" name="Bater óleo"  />
 			<text id="preparestep_potatosalad_potato" name="Descascar batatas"  />
 			<text id="preparestep_redberrycompote_cherries" name="Limpar cerejas"  />
-			<text id="preparestep_redberrycompote_rhubarb" name="limpar ruibarbo"  />
-			<text id="preparestep_redberrycompote_strawberry" name="limpar morangos"  />
-			<text id="preparestep_redberrycompote_sugar" name="caramelizar açúcar"  />
+			<text id="preparestep_redberrycompote_rhubarb" name="Limpar ruibarbo"  />
+			<text id="preparestep_redberrycompote_strawberry" name="Limpar morangos"  />
+			<text id="preparestep_redberrycompote_sugar" name="Caramelizar açúcar"  />
 			<text id="preparestep_ricepudding_apple" name="Descascar maçãs"  />
 			<text id="preparestep_ricepudding_cream" name="Bater chantilly"  />
 			<text id="preparestep_ricepudding_milk" name="Medir leite"  />
@@ -1136,13 +1136,13 @@ Apenas disponível por tempo limitado!"  />
 			<text id="preparestep_roastchicken_butter" name="Derreter manteiga"  />
 			<text id="preparestep_roastchicken_chicken" name="Preparar frango"  />
 			<text id="preparestep_roastchicken_onion" name="Picar cebola"  />
-			<text id="preparestep_sandwich_bacon" name="fatiar bacon"  />
+			<text id="preparestep_sandwich_bacon" name="Fatiar bacon"  />
 			<text id="preparestep_sandwich_butter" name="Pesar manteiga"  />
-			<text id="preparestep_sandwich_cheese" name="fatiar queijo"  />
+			<text id="preparestep_sandwich_cheese" name="Fatiar queijo"  />
 			<text id="preparestep_sandwich_flour" name="Peneirar farinha"  />
-			<text id="preparestep_sandwich_tomato" name="cortar tomates"  />
+			<text id="preparestep_sandwich_tomato" name="Cortar tomates"  />
 			<text id="preparestep_scouse_beetroot" name="Cortar beterraba"  />
-			<text id="preparestep_scouse_cucumber" name="Fazer pickles"  />
+			<text id="preparestep_scouse_cucumber" name="Fazer picles"  />
 			<text id="preparestep_scouse_eggs" name="Fritar ovos"  />
 			<text id="preparestep_scouse_meat" name="Cortar carne"  />
 			<text id="preparestep_spagetti_mincemeat" name="Temperar carne moída"  />
@@ -1169,10 +1169,10 @@ Apenas disponível por tempo limitado!"  />
 			<text id="preparestep_strawberrycake_cream" name="Bater chantilly"  />
 			<text id="preparestep_strawberrycake_flour" name="Peneirar farinha"  />
 			<text id="preparestep_strawberrycake_strawberry" name="Lavar morangos"  />
-			<text id="preparestep_strawberrymousse_cream" name="bater creme"  />
-			<text id="preparestep_strawberrymousse_eggs" name="quebrar ovos"  />
+			<text id="preparestep_strawberrymousse_cream" name="Bater creme"  />
+			<text id="preparestep_strawberrymousse_eggs" name="Quebrar ovos"  />
 			<text id="preparestep_strawberrymousse_strawberry" name="Limpar morangos"  />
-			<text id="preparestep_strawberrymousse_sugar" name="pesar açúcar"  />
+			<text id="preparestep_strawberrymousse_sugar" name="Pesar açúcar"  />
 			<text id="preparestep_stuffedpeppers_ballpepper" name="Tirar miolo do pimentão"  />
 			<text id="preparestep_stuffedpeppers_eggs" name="Bater ovos"  />
 			<text id="preparestep_stuffedpeppers_rice" name="Cozinhar arroz"  />
@@ -1190,8 +1190,8 @@ Apenas disponível por tempo limitado!"  />
 			<text id="preparestep_toast_flour" name="Peneirar farinha"  />
 			<text id="preparestep_toast_pinapple" name="Cortar abacaxi"  />
 			<text id="preparestep_tofuburger_flour" name="Peneirar farinha"  />
-			<text id="preparestep_tofuburger_lettuce" name="lavar salada"  />
-			<text id="preparestep_tofuburger_tofu" name="combinar tofu"  />
+			<text id="preparestep_tofuburger_lettuce" name="Lavar alface"  />
+			<text id="preparestep_tofuburger_tofu" name="Organizar tofu"  />
 			<text id="preparestep_tofuburger_tomato" name="Cortar tomates"  />
 			<text id="preparestep_tomatosoup_cream" name="Bater chantilly"  />
 			<text id="preparestep_tomatosoup_onion" name="Picar cebolas"  />
@@ -1217,13 +1217,13 @@ Apenas disponível por tempo limitado!"  />
 			<text id="preparestep_veggielasagne_pasta" name="Cozinhar macarrão"  />
 			<text id="preparestep_veggielasagne_tomato" name="Amassar tomate"  />
 			<text id="preparestep_whitechoccheesecake_cookies" name="Esmigalhar bolachas"  />
-			<text id="preparestep_whitechoccheesecake_cream" name="bater creme"  />
+			<text id="preparestep_whitechoccheesecake_cream" name="Bater creme"  />
 			<text id="preparestep_whitechoccheesecake_milk" name="Esquentar leite"  />
-			<text id="preparestep_whitechoccheesecake_quark" name="misturar coalhada"  />
-			<text id="preparestep_whitechoccheesecake_whitechocolat" name="pesar chocolate"  />
-			<text id="preparestep_whitechocmousse_cream" name="bater creme"  />
+			<text id="preparestep_whitechoccheesecake_quark" name="Misturar queijo"  />
+			<text id="preparestep_whitechoccheesecake_whitechocolat" name="Pesar chocolate"  />
+			<text id="preparestep_whitechocmousse_cream" name="Bater creme"  />
 			<text id="preparestep_whitechocmousse_eggs" name="Quebrar ovos"  />
-			<text id="preparestep_whitechocmousse_whitechocolat" name="derreter chocolate"  />
+			<text id="preparestep_whitechocmousse_whitechocolat" name="Derreter chocolate"  />
 		</preparestep>
 		<preparestep_fancy>
 			<text id="preparestep_bananasplit_vanilla" name="Raspar baunilha"  />
