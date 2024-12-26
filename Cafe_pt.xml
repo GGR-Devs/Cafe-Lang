@@ -1578,11 +1578,11 @@ na roda da fortuna!"  />
 			<alert>
 				<text id="generic_alert_bug" name="Erro"  />
 				<text id="generic_alert_connection_failed_copy" name="Em manutenção. Por favor, tente novamente mais tarde!"  />
-				<text id="generic_alert_connection_failed_title" name="Trabalho em progresso!"  />
-				<text id="generic_alert_connection_lost_copy" name="A conexão ao servidor falhou. Por favor, tente reconectar-se."  />
-				<text id="generic_alert_connection_lost_description" name="Atualmente estamos em manutenção, necessária de vez em quando. Para atualizações ou carregar novas características ou corrigir erros. &lt;br&gt;&lt;br&gt;
+				<text id="generic_alert_connection_failed_title" name="Estamos trabalhando!"  />
+				<text id="generic_alert_connection_lost_copy" name="A conexão ao servidor falhou. Por favor, tente reconectar ou recarregue o jogo."  />
+				<text id="generic_alert_connection_lost_description" name="Atualmente estamos em manutenção. Espere que já voltamos! &lt;br&gt;&lt;br&gt;
 Estamos trabalhando a todo o vapor para que você possa voltar a jogar o mais rápido possível."  />
-				<text id="generic_alert_connection_lost_promo" name="Experimente nesse meio tempo nossos outros jogos."  />
+				<text id="generic_alert_connection_lost_promo" name="Que tal jogar alguma outra coisa enquanto isso?"  />
 				<text id="generic_alert_connection_lost_thanks" name="Obrigado pela compreensão!"  />
 				<text id="generic_alert_connection_lost_title" name="Conexão perdida!"  />
 				<text id="generic_alert_error" name="Erro"  />
@@ -1593,7 +1593,7 @@ Estamos trabalhando a todo o vapor para que você possa voltar a jogar o mais r�
 				<text id="generic_alert_watchout" name="Atenção!"  />
 				<text id="generic_alert_win7chromebug" name=""  />
 				<text id="generic_invalid_email_provider" name="Um endereço de e-mail desse provedor não é permitido!"  />
-				<text id="generic_js_alert_firstsessiontracking_loading" name="A sua conexão a internet parece estar muito lenta no momento. Tente novamente mais tarde!"  />
+				<text id="generic_js_alert_firstsessiontracking_loading" name="A sua conexão à Internet parece estar muito lenta no momento. Tente novamente mais tarde!"  />
 				<text id="generic_js_alert_firstsessiontracking_registered" name="O que você achou do jogo e o que ainda poderia ser melhorado? Por favor, dê sua opinião no fórum do Goodgame ou no Grupo."  />
 				<text id="generic_js_alert_firstsessiontracking_unregistered" name="Atenção: O seu jogo será salvo apenas quando você se cadastrar!"  />
 				<text id="generic_register_error_invalidemail" name="O e-mail informado está incorreto."  />
@@ -1608,7 +1608,7 @@ Estamos trabalhando a todo o vapor para que você possa voltar a jogar o mais r�
 				<text id="generic_btn_endnow" name="Terminar agora"  />
 				<text id="generic_btn_goback" name="Voltar"  />
 				<text id="generic_btn_no" name="Não"  />
-				<text id="generic_btn_noshare" name="Não Compartilhar"  />
+				<text id="generic_btn_noshare" name="Não"  />
 				<text id="generic_btn_notaccept" name="Rejeitar"  />
 				<text id="generic_btn_okay" name="Okay"  />
 				<text id="generic_btn_reconnect" name="Reconectar"  />
@@ -1650,7 +1650,7 @@ Estamos trabalhando a todo o vapor para que você possa voltar a jogar o mais r�
 				<text id="generic_high" name="Alta"  />
 				<text id="generic_hour" name="Hora"  />
 				<text id="generic_hours" name="Horas"  />
-				<text id="generic_hour_short" name="hs."  />
+				<text id="generic_hour_short" name="hrs."  />
 				<text id="generic_limited" name="Limitado"  />
 				<text id="generic_logout" name="Logout"  />
 				<text id="generic_low" name="Baixa"  />
@@ -1685,7 +1685,7 @@ Estamos trabalhando a todo o vapor para que você possa voltar a jogar o mais r�
 			</error>
 			<feeds id=""  />
 			<friends>
-				<text id="generic_friends_add_copy" name="Você gostaria de incluir {0} como amigo?"  />
+				<text id="generic_friends_add_copy" name="Você gostaria de adiconar {0} como amigo?"  />
 				<text id="generic_friends_add_title" name="Pedido de amizade"  />
 				<text id="generic_friends_buddy_btn_morefriends" name="Mais amigos!"  />
 				<text id="generic_friends_denied_copy" name="{0} rejeitou seu pedido."  />
@@ -1693,7 +1693,7 @@ Estamos trabalhando a todo o vapor para que você possa voltar a jogar o mais r�
 				<text id="generic_friends_invite_badword_copy" name="O nome escolhido não é permitido!"  />
 				<text id="generic_friends_invite_badword_title" name="Atenção!"  />
 				<text id="generic_friends_invite_error_copy" name="Para convidar seus amigos você precisa registrar-se primeiro."  />
-				<text id="generic_friends_invite_error_title" name="Primeiro registrar-se"  />
+				<text id="generic_friends_invite_error_title" name="Primeiro registre-se"  />
 			</friends>
 			<fullscreen>
 				<text id="generic_fullscreen_error_copy" name="Tela cheia não é possível"  />
@@ -1724,15 +1724,15 @@ Estamos trabalhando a todo o vapor para que você possa voltar a jogar o mais r�
 				<text id="generic_language_zh_TW" name="Chinês (tradicional)"  />
 			</languages>
 			<login>
-				<text id="generic_login_banned" name="Sua conta foi bloqueada! Dirija-se ao suporte!"  />
-				<text id="generic_login_banned_2" name="Sua conta foi bloqueada!
+				<text id="generic_login_banned" name="Sua conta foi banida! Fale com o suporte!"  />
+				<text id="generic_login_banned_2" name="Sua conta foi banida!
 
-O bloqueio dura até: {0}
+O banimento dura até: {0}
 
-Caso você tenha perguntas em relação ao bloqueio dirija-se ao suporte."  />
-				<text id="generic_login_banned_3" name="Sua conta foi bloqueada permanentemente.
+Caso você tenha perguntas em relação ao banimento fale com o suporte."  />
+				<text id="generic_login_banned_3" name="Sua conta foi banida permanentemente. Adeus!
 
-Caso tenha dúvidas sobre o bloqueio, dirija-se ao suporte."  />
+Caso tenha perguntas em relação ao banimento fale com o suporte."  />
 				<text id="generic_login_banned_permanent" name="permanente"  />
 				<text id="generic_login_facebook" name="Login via Facebook"  />
 				<text id="generic_login_login" name="LOGIN"  />
@@ -1746,7 +1746,7 @@ Caso tenha dúvidas sobre o bloqueio, dirija-se ao suporte."  />
 				<text id="generic_login_playnow" name="Jogar agora!"  />
 				<text id="generic_login_register" name="Registrar"  />
 				<text id="generic_login_rememberpassword" name="Salvar senha"  />
-				<text id="generic_login_wronglogin" name="Nome de usuário ou senha falso!"  />
+				<text id="generic_login_wronglogin" name="Nome de usuário ou senha errado!"  />
 			</login>
 			<logout>
 				<text id="generic_logout_guest_copy" name="Registre-se para salvar seu jogo!"  />
@@ -1754,9 +1754,9 @@ Caso tenha dúvidas sobre o bloqueio, dirija-se ao suporte."  />
 			</logout>
 			<notification>
 				<text id="servershutdownpremonition_backin_copy" name="Mais tardar {0} o jogo estará disponível novamente."  />
-				<text id="servershutdownpremonition_copy" name="O servidor do jogo se encerrará em {0}. Por favor, desconecte-se ou salve sua pontuação."  />
+				<text id="servershutdownpremonition_copy" name="O servidor do jogo vai ser desligado em {0}. Por favor, desconecte-se ou salve sua pontuação."  />
 				<text id="servershutdownpremonition_registered_copy" name="O servidor do jogo vai ser desligado em {0} para trabalhos de manutenção."  />
-				<text id="servershutdown_copy" name="O servidor do jogo está encerrado. Em poucos minutos você poderá se conectar novamente."  />
+				<text id="servershutdown_copy" name="O servidor do jogo está desligado. Em poucos minutos você poderá se conectar novamente."  />
 				<text id="welcomeback_copy" name="Bom te ver de novo! Aqui uma coisinha que vai te ajudar na sua volta!"  />
 				<text id="welcomeback_title" name="De volta!"  />
 			</notification>
