@@ -363,34 +363,34 @@ Se você colocar algo agora, as porções existentes serão perdidas!"  />
 			<text id="coop_title_9" name="BUFFET ITALIANO"  />
 		</coopmission>
 		<dialogs>
-			<text id="dialogwin_achievement_title" name="Premiações"  />
+			<text id="dialogwin_achievement_title" name="Conquistas"  />
 			<text id="dialogwin_avatarcreate_man"  />
 			<text id="dialogwin_avatarcreate_random" name="Mudar visual"  />
 			<text id="dialogwin_avatarcreate_txt_avatar_name" name="Nome:"  />
 			<text id="dialogwin_avatarcreate_txt_avatar_title" name="Crie seu personagem"  />
 			<text id="dialogwin_avatarcreate_woman"  />
-			<text id="dialogwin_avatarnameselect_copy" name="Esse nome já foi dado. Sugestões:"  />
+			<text id="dialogwin_avatarnameselect_copy" name="Esse nome já existe. Sugestões:"  />
 			<text id="dialogwin_avatarnameselect_title" name="Opa!"  />
-			<text id="dialogwin_avatar_btn_random" name="coincidência"  />
-			<text id="dialogwin_bonus_copy_achievement" name="Você alcançou o nível {0} dessa premiação! Parabéns!"  />
+			<text id="dialogwin_avatar_btn_random" name="Estilo aleatório"  />
+			<text id="dialogwin_bonus_copy_achievement" name="Você alcançou o nível {0} dessa conquista! Parabéns!"  />
 			<text id="dialogwin_bonus_copy_counter" name="Você pode comprar um novo balcão."  />
-			<text id="dialogwin_bonus_copy_dish" name="Novas receitas foram liberadas para você:"  />
-			<text id="dialogwin_bonus_copy_expand" name="Você expadiu! Agora você tem mais lugar para seus clientes, decorações e outros!"  />
+			<text id="dialogwin_bonus_copy_dish" name="Novas receitas desbloqueadas:"  />
+			<text id="dialogwin_bonus_copy_expand" name="Você expandiu! Agora você tem mais lugar para seus clientes, decorações e outros!"  />
 			<text id="dialogwin_bonus_copy_fridge" name="Você pode comprar uma geladeira nova."  />
-			<text id="dialogwin_bonus_copy_instant" name="Cozinhar mais rápido. Só um clique e a comida estará pronta para servir."  />
-			<text id="dialogwin_bonus_copy_level2" name="Já viu? Você pode expandir seu Café e assim ter mais espaço para seus clientes!"  />
+			<text id="dialogwin_bonus_copy_instant" name="Cozinhe mais rápido com ouro. Só um clique e a comida estará pronta para servir."  />
+			<text id="dialogwin_bonus_copy_level2" name="No aperto? Você pode expandir seu Café e assim ter mais espaço para seus clientes!"  />
 			<text id="dialogwin_bonus_copy_login" name="Isso é o que aconteceu no seu Café enquanto você estava fora:"  />
 			<text id="dialogwin_bonus_copy_newwaiter" name="Você tem um novo funcionário em seu Café! Os clientes podem chegar!"  />
 			<text id="dialogwin_bonus_copy_stove" name="Você pode comprar um fogão novo."  />
-			<text id="dialogwin_bonus_copy_waiter" name="Você pode contratrar um garçon novo."  />
-			<text id="dialogwin_bonus_title_achievement" name="Nova premiação"  />
+			<text id="dialogwin_bonus_copy_waiter" name="Você pode contratrar um novo funcionário."  />
+			<text id="dialogwin_bonus_title_achievement" name="Nova conquista"  />
 			<text id="dialogwin_bonus_title_counter" name="Balcão novo"  />
 			<text id="dialogwin_bonus_title_dish" name="Novas receitas"  />
-			<text id="dialogwin_bonus_title_expand" name="Hurra!"  />
+			<text id="dialogwin_bonus_title_expand" name="Muito bem!"  />
 			<text id="dialogwin_bonus_title_fridge" name="Geladeira nova"  />
-			<text id="dialogwin_bonus_title_instant" name="Instantcooking freqüente"  />
+			<text id="dialogwin_bonus_title_instant" name="Instantcooking frequente"  />
 			<text id="dialogwin_bonus_title_level2" name="Expanda!"  />
-			<text id="dialogwin_bonus_title_login" name="De volta!"  />
+			<text id="dialogwin_bonus_title_login" name="Olá chefia!"  />
 			<text id="dialogwin_bonus_title_newwaiter" name="Parabéns"  />
 			<text id="dialogwin_bonus_title_stove" name="Fogão novo"  />
 			<text id="dialogwin_bonus_title_waiter" name="Mais funcionários"  />
@@ -401,7 +401,7 @@ Se você colocar algo agora, as porções existentes serão perdidas!"  />
 			<text id="dialogwin_changepassword_title" name="Mudar senha"  />
 			<text id="dialogwin_clearcounter_cancelButton" name="Manter"  />
 			<text id="dialogwin_clearcounter_okButton" name="Jogar fora"  />
-			<text id="dialogwin_clearcounter_title" name="Um prato está sendo servido desse balcão. O que você gostaria de fazer com ele?"  />
+			<text id="dialogwin_clearcounter_title" name="Um prato está sendo servido nesse balcão. O que você gostaria de fazer com ele?"  />
 			<text id="dialogwin_clearstove_btn_cancel" name="Manter"  />
 			<text id="dialogwin_clearstove_btn_ok" name="Jogar fora"  />
 			<text id="dialogwin_clearstove_copy" name="Você ainda pode &#039;terminar de cozinhar agora&#039; {0} vezes hoje."  />
@@ -413,14 +413,14 @@ Se você colocar algo agora, as porções existentes serão perdidas!"  />
 			<text id="dialogwin_coopreward_finish_0" name="Ouro"  />
 			<text id="dialogwin_coopreward_finish_1" name="Prata"  />
 			<text id="dialogwin_coopreward_finish_2" name="Bronze"  />
-			<text id="dialogwin_coopreward_title_fail" name="Cooperação fracassada!"  />
+			<text id="dialogwin_coopreward_title_fail" name="A Cooperação deu flop!"  />
 			<text id="dialogwin_coopreward_title_success" name="Cooperação completada com {0}"  />
 			<text id="dialogwin_coopshelp_copy" name="Aqui você pode realizar trabalhos culinários junto com seus amigos e receber XP e cafédólares extra. \nQuanto mais rápido o trabalho é realizado, maior é a recompensa!\n\nSe o tempo ficar apertado você pode prolongar o prazo a qualquer momento! Mas lembre-se que você só recebe a recompensa se você contribuir em algo!"  />
 			<text id="dialogwin_coopshelp_title" name="O que são cooperações?"  />
 			<text id="dialogwin_coop_btn_action" name="Detalhes"  />
 			<text id="dialogwin_coop_btn_activecoops" name="ATIVAS"  />
 			<text id="dialogwin_coop_btn_join" name="Participar"  />
-			<text id="dialogwin_coop_btn_newcoop" name="INICIE COOPERAÇÃO"  />
+			<text id="dialogwin_coop_btn_newcoop" name="INICIAR COOPERAÇÃO"  />
 			<text id="dialogwin_coop_btn_quit" name="Deixar"  />
 			<text id="dialogwin_coop_extendtime_copy" name="Você gostaria de prolongar a cooperação por {0} ouro?
 Duração ouro: {1} horas
@@ -430,7 +430,7 @@ Duração bronze: {3} horas"  />
 			<text id="dialogwin_coop_maxdone" name="Você já iniciou uma cooperação hoje! Você só pode começar outra amanhã!"  />
 			<text id="dialogwin_coop_maxuser" name="Número máximo de participantes: {0}"  />
 			<text id="dialogwin_coop_member" name="Participante da cooperação:"  />
-			<text id="dialogwin_coop_minlevel" name="Nível mínimo para participar de Co-Op: {0}"  />
+			<text id="dialogwin_coop_minlevel" name="Nível mínimo para participar: {0}"  />
 			<text id="dialogwin_coop_quit_copy" name="Você realmente gostaria de deixar essa cooperação?"  />
 			<text id="dialogwin_coop_subtitle" name="Vocês devem cozinhar:"  />
 			<text id="dialogwin_coop_timeInfo" name="Realizado em:"  />
@@ -438,7 +438,7 @@ Duração bronze: {3} horas"  />
 			<text id="dialogwin_coop_txt_noactive" name="Não existem cooperações no momento. \nInicie uma agora!"  />
 			<text id="dialogwin_coop_txt_title" name="COOPERAÇÕES"  />
 			<text id="dialogwin_decoshophelp_copy" name="Se você arrastar seu móveis até essa barra, e NÃO até o caixa, eles serão guardados.\nSe você colocá-los novamente em seu café não custará nada.\nA quantidade de cada móvel você visualiza na etiqueta vermelha."  />
-			<text id="dialogwin_decoshophelp_copy_1" name="Os móveis e as decorações têm um valor de luxo que com certeza aumenta a luxuosidade do seu Café! O quão luxuoso é o seu Café?"  />
+			<text id="dialogwin_decoshophelp_copy_1" name="Os móveis e as decorações têm um valor de luxo que aumenta a popularidade do seu Café! Cafés luxuosos são populares!"  />
 			<text id="dialogwin_decoshophelp_title" name="Guardar móveis/decorações?"  />
 			<text id="dialogwin_decoshophelp_title_1" name="Valor de luxo?"  />
 			<text id="dialogwin_dishmastery_copy_0" name="Você ganhou uma estrela para {0}!"  />
@@ -448,64 +448,64 @@ Duração bronze: {3} horas"  />
 			<text id="dialogwin_fancycooking_title" name="Você gostaria de temperar seu prato com {0}?"  />
 			<text id="dialogwin_featureUnlocked_coop" name="Inicie uma cooperação com seus amigos!"  />
 			<text id="dialogwin_featureUnlocked_decoration" name="Novas decorações foram liberadas para você!"  />
-			<text id="dialogwin_featureUnlocked_fancy" name="Dê um sabor extra nos seus pratos com os ingredientes extravagantes!"  />
+			<text id="dialogwin_featureUnlocked_fancy" name="Dê um sabor extra nos seus pratos com os ingredientes especiais!"  />
 			<text id="dialogwin_featureUnlocked_frosty" name="Descubra o Frosty e mate a sede de seus clientes!"  />
 			<text id="dialogwin_featureUnlocked_marketplace" name="Encontre novos amigos no mercado!"  />
-			<text id="dialogwin_featureUnlocked_muffinman" name="Tente sua sorte com o homen-muffin!"  />
+			<text id="dialogwin_featureUnlocked_muffinman" name="Tente sua sorte com o homem dos bolinhos!"  />
 			<text id="dialogwin_featureUnlocked_ranking" name="Visite outros jogadores através do Ranking!"  />
-			<text id="dialogwin_featureUnlocked_staff" name="Contrate um novo garçon para servir muitos clientes!"  />
+			<text id="dialogwin_featureUnlocked_staff" name="Contrate um novo garçon ou garçonete para servir muitos clientes!"  />
 			<text id="dialogwin_featureUnlocked_wheeloffortune" name="Tente sua sorte na roleta!"  />
 			<text id="dialogwin_FriendShop_copy" name="Você precisa de {0} amigos para te ajudar na ampliação do seu Café!\nMas você também pode contratar um pedreiro por {1}!"  />
 			<text id="dialogwin_FriendShop_title" name="Novos amigos"  />
 			<text id="dialogwin_giftbox_close" name="Fechar"  />
-			<text id="dialogwin_giftbox_friendlist_empty" name="Você pode enviar ao seus amigos de rede um presente por dia."  />
+			<text id="dialogwin_giftbox_friendlist_empty" name="Você pode enviar ao seus amigos apenas um presente por dia."  />
 			<text id="dialogwin_giftbox_friendlist_notavailable" name="Você poderá enviar presentes aos seus amigos de amanhã em diante!"  />
 			<text id="dialogwin_giftbox_ggsgifts_empty" name="Sem presentes! Com o bônus de login você recebe presentes novos!"  />
 			<text id="dialogwin_giftbox_mygifts_empty" name="Você não recebeu nenhum presente. Envie alguns aos seus amigos, talvez eles te enviem algo de volta."  />
-			<text id="dialogwin_giftbox_remove" name="dar"  />
-			<text id="dialogwin_giftbox_send" name="presentear"  />
+			<text id="dialogwin_giftbox_remove" name="Jogar fora"  />
+			<text id="dialogwin_giftbox_send" name="Presentear"  />
 			<text id="dialogwin_giftbox_sendablegifts_empty" name="Não há presentes hoje."  />
 			<text id="dialogwin_giftbox_title" name="Presentes!"  />
-			<text id="dialogwin_giftbox_use" name="utilizar"  />
+			<text id="dialogwin_giftbox_use" name="Usar"  />
 			<text id="dialogwin_highscore_luxury" name="Luxo"  />
 			<text id="dialogwin_highscore_name" name="Nome"  />
 			<text id="dialogwin_highscore_rank" name="Posição"  />
 			<text id="dialogwin_highscore_searchtext" name="Procurar por nome/posição"  />
 			<text id="dialogwin_highscore_title" name="Ranking"  />
 			<text id="dialogwin_ingamehelp_1_1" name="Como cozinhar um prato?"  />
-			<text id="dialogwin_ingamehelp_1_2" name="Nos fogões você prepara os pratos para seus clientes. Para isso você deve escolher uma receita e prepará-la com alguns cliques."  />
+			<text id="dialogwin_ingamehelp_1_2" name="Nos fogões você prepara os pratos para seus clientes. Para isso você deve escolher uma receita e prepará-la com alguns cliques. Os fogões são de alta tecnologia e podem preparar milhares de porções de comidas quentes, geladas ou frescas."  />
 			<text id="dialogwin_ingamehelp_1_3" name="No livro de receitas você encontra um índice com todas as receitas e os ingredientes necessários."  />
 			<text id="dialogwin_ingamehelp_1_4" name="Os ingredientes necessários para uma receita você encontra no mercado de ingredientes."  />
 			<text id="dialogwin_ingamehelp_1_5" name="Quando você tiver todos os ingredientes pode clicar em &quot;cozinhar&quot; para preparar um prato."  />
-			<text id="dialogwin_ingamehelp_1_6" name="Quando um prato fica pronto você pode colocá-lo em cima de um balção para serví-lo."  />
-			<text id="dialogwin_ingamehelp_1_7" name="Um fogão usado é sujo e precisa ser limpo antes do próximo uso."  />
+			<text id="dialogwin_ingamehelp_1_6" name="Quando um prato fica pronto você pode colocá-lo em cima de um balcão para serví-lo."  />
+			<text id="dialogwin_ingamehelp_1_7" name="Um fogão usado é sujo e precisa ser limpo antes do próximo uso. A limpeza custa uma pequena taxa."  />
 			<text id="dialogwin_ingamehelp_2_1" name="O que eu devo saber sobre ingredientes?"  />
 			<text id="dialogwin_ingamehelp_2_2" name="Aqui você armazena seus ingredientes comprados. Todas as geladeiras tem uma capacidade máxima. Mas é sempre bom comprar para o estoque."  />
-			<text id="dialogwin_ingamehelp_2_3" name="Ingredientes extravagantes são temperos para sua comida. Se você os usa consegue mais porções e XP. Além disso eles não ocupam espaço na geladeira."  />
-			<text id="dialogwin_ingamehelp_2_4" name="Os ingredientes ás vezes não estão disponíveis. Aqui um entregador pode te ajudar. Por um valor pequeno você sempre tem tudo no restaurante."  />
+			<text id="dialogwin_ingamehelp_2_3" name="Ingredientes especiais são temperos para sua comida. Se você os usa consegue mais porções e XP. Além disso eles não ocupam espaço na geladeira."  />
+			<text id="dialogwin_ingamehelp_2_4" name="Os ingredientes nem sempre estão disponíveis. Aqui um entregador pode te ajudar. Por um valor em ouro você sempre tem tudo no restaurante."  />
 			<text id="dialogwin_ingamehelp_2_5" name="Esses ingredientes estão sempre disponíveis:"  />
 			<text id="dialogwin_ingamehelp_3_1" name="Valores e etc."  />
-			<text id="dialogwin_ingamehelp_3_2" name="Você recebe pontos de experiência ao servir pratos. Outras possibilidades são: trabalhar de garçon em outros cafés, cooperações bem sucedidas, prêmios ou servindo bebidas."  />
+			<text id="dialogwin_ingamehelp_3_2" name="Você recebe pontos de experiência (XP) ao servir pratos. Outras possibilidades são: trabalhar de garçon ou garçonete em outros cafés, cooperações bem sucedidas, conquistas ou servindo bebidas."  />
 			<text id="dialogwin_ingamehelp_3_3" name="Sua popularidade define quantos clientes te visitam. Sua popularidade aumenta quando os clientes deixam o seu café satisfeitos. Ela também pode baixar quando clientes deixam o seu café insatisfeitos. Clientes ficam satisfeitos quando eles recebem algo para comer."  />
-			<text id="dialogwin_ingamehelp_3_4" name="Você recebe Café dólares através da venda de refeições. Outras possibilidades são: trabalhar como garçon, cooperações bem sucedidas e premiações."  />
-			<text id="dialogwin_ingamehelp_3_5" name="Todos os objetos no menü de construção tem um valor de luxo. Esse valor influencia sua popularidade. Quanto mais luxuoso mais popular..."  />
-			<text id="dialogwin_ingamehelp_3_6" name="No menü de construção você encontra fogões, balcões, mesas e muitos outros artigos de decoração. Seja criativo!"  />
-			<text id="dialogwin_ingamehelp_3_7" name="Se seu café ficar pequeno demais você tem a possibilidade de apliá-lo para conseguir mais espaço para seus clientes."  />
+			<text id="dialogwin_ingamehelp_3_4" name="Você recebe Café dólares através da venda de refeições. Outras possibilidades são: trabalhar como garçon, cooperações bem sucedidas e ganhar conquistas."  />
+			<text id="dialogwin_ingamehelp_3_5" name="Todos os objetos no menu de construção tem um valor de luxo. Esse valor influencia sua popularidade. Quanto mais luxuoso, mais popular!"  />
+			<text id="dialogwin_ingamehelp_3_6" name="No Modo Decoração você encontra fogões, balcões, mesas e muitos outros artigos de decoração. Seja criativo!"  />
+			<text id="dialogwin_ingamehelp_3_7" name="Se seu café ficar pequeno demais você tem a possibilidade de ampliá-lo para conseguir mais espaço para seus clientes."  />
 			<text id="dialogwin_ingamehelp_4_1" name="O que mais preciso saber?"  />
-			<text id="dialogwin_ingamehelp_4_2" name="No mercado você conhece outros jogadores, pode procurar por trabalho ou bater papo com outros jogadores."  />
-			<text id="dialogwin_ingamehelp_4_3" name="Você recebe premiações para todas as ações possíveis e elas são uma fonte extra de XP e Café dólares."  />
-			<text id="dialogwin_ingamehelp_4_4" name="No mercado você pode contratar outros jogadores como garçons ou se oferecer para trabalhar como garçon."  />
-			<text id="dialogwin_ingamehelp_4_5" name="Uma cooperação é um projeto culinário que você pode jogar com outros jogadores. Em caso de sucesso existe um prêmio."  />
-			<text id="dialogwin_ingamehelp_4_6" name="Seus garçons servem os pratos prontos para os clientes que estão esperando e retiram a louça suja das mesas."  />
-			<text id="dialogwin_ingamehelp_4_7" name="Pratos cozidos que não são colocados logo em um balção estragam."  />
+			<text id="dialogwin_ingamehelp_4_2" name="No mercado você conhece outros jogadores, pode procurar por trabalho, bater papo, girar a roda da fortuna ou só passar o tempo."  />
+			<text id="dialogwin_ingamehelp_4_3" name="Você recebe premiações para todas as ações possíveis e elas são uma fonte extra de XP e cafedólares."  />
+			<text id="dialogwin_ingamehelp_4_4" name="No mercado você pode contratar outros jogadores para trabalhar no seu café ou se oferecer para trabalhar como garçon ou garçonete."  />
+			<text id="dialogwin_ingamehelp_4_5" name="Uma cooperação é uma missão que você pode jogar com outros jogadores. Faça tudo certinho e ganhe prêmios!"  />
+			<text id="dialogwin_ingamehelp_4_6" name="Seus garçons e garçonetes servem os pratos prontos para os clientes que estão esperando e retiram a louça suja das mesas."  />
+			<text id="dialogwin_ingamehelp_4_7" name="Pratos prontos que não são colocados logo em um balcão estragam. Pratos rápidos estragam em 1 hora mas, pratos que cozinham por mais de 1 hora levam o mesmo tempo de preparo para estragar."  />
 			<text id="dialogwin_ingamehelp_ingredients" name="Ingredientes"  />
 			<text id="dialogwin_ingredient_all" name="Tudo"  />
-			<text id="dialogwin_ingredient_emptyfridge" name="Sua geladeira está vazia, que pena! Para cozinhar algo novo você precisa comprar ingredientes na mercado de ingredientes."  />
+			<text id="dialogwin_ingredient_emptyfridge" name="Sua geladeira está vazia, que pena! Para cozinhar algo novo você precisa comprar ingredientes."  />
 			<text id="dialogwin_ingredient_fancy" name="Ingredientes especiais"  />
 			<text id="dialogwin_ingredient_fruits" name="Frutas"  />
 			<text id="dialogwin_ingredient_instore" name="x Estoque"  />
 			<text id="dialogwin_ingredient_meat" name="Carne"  />
-			<text id="dialogwin_ingredient_notinstock" name="Não está aqui hoje!"  />
+			<text id="dialogwin_ingredient_notinstock" name="Não tem hoje!"  />
 			<text id="dialogwin_ingredient_shoplayer" name="Ingredientes"  />
 			<text id="dialogwin_ingredient_storecapacity" name="Capacidade:"  />
 			<text id="dialogwin_ingredient_storeinused" name="Na geladeira:"  />
@@ -513,38 +513,38 @@ Duração bronze: {3} horas"  />
 			<text id="dialogwin_ingredient_vegatable" name="Vegetariano"  />
 			<text id="dialogwin_instantcooking_copy" name="Terminar de cozinhar agora? Ainda pode terminar {0} vezes!"  />
 			<text id="dialogwin_instantcooking_title" name="Você gostaria de\n'terminar de cozinhar' agora?"  />
-			<text id="dialogwin_jobpaycheck_copy" name="Garçons erforçados são recompensados! Além da gorjeta você também acumula experiência."  />
-			<text id="dialogwin_jobpaycheck_title" name="Conta"  />
+			<text id="dialogwin_jobpaycheck_copy" name="Seu esfoços são recompensados! Além da gorjeta você também acumula experiência."  />
+			<text id="dialogwin_jobpaycheck_title" name="Recibo"  />
 			<text id="dialogwin_levelup_copy" name="Você atingiu o nível {0}!"  />
 			<text id="dialogwin_levelup_copy_1" name="Sua recompensa:"  />
 			<text id="dialogwin_levelup_copy_2" name="Liberado para você:"  />
 			<text id="dialogwin_levelup_title" name="PRÓXIMO NÍVEL"  />
-			<text id="dialogwin_lonelyingredient_copy" name="Seu garçon encontrou uma caixa com um ingrediente misterioso!\n\Dê ele aos seus amigos!"  />
+			<text id="dialogwin_lonelyingredient_copy" name="O(a) funcionário(a) encontrou uma caixa com um ingrediente misterioso!\n\Dê ele aos seus amigos!"  />
 			<text id="dialogwin_lonelyingredient_title" name="Surpresa!"  />
 			<text id="dialogwin_lonelytip_copy" name="Um cliente te deu uma gorjeta enorme!
 
 Dê um pouco dela aos seus amigos!"  />
-			<text id="dialogwin_lonelytip_title" name="Hurra!"  />
-			<text id="dialogwin_muffinman_beforebet" name="Escolha sua aposta. Se vencer, você ganhará o dobro!"  />
+			<text id="dialogwin_lonelytip_title" name="Muito bom!"  />
+			<text id="dialogwin_muffinman_beforebet" name="Escolha sua aposta. Se vencer, você ganhará o dobro! Se perder, paciência!"  />
 			<text id="dialogwin_muffinman_btn_again" name="De novo!"  />
 			<text id="dialogwin_muffinman_btn_go" name="Vai!"  />
 			<text id="dialogwin_muffinman_header" name="Encontre o recheio!"  />
-			<text id="dialogwin_muffinman_lostbet" name="Que pena. Não se pode ganhar todas as vezes! Quem sabe na próxima vez..."  />
+			<text id="dialogwin_muffinman_lostbet" name="Que pena. É a vida de quem aposta! Você pode tentar novamente..."  />
 			<text id="dialogwin_muffinman_nomoney" name="Você não tem Café Dólares/Ouro suficiente para esta ação!"  />
-			<text id="dialogwin_muffinman_nopayment" name="Se deseja jogar por Gold, você deverá ter alcançado no mínimo o nível 10."  />
+			<text id="dialogwin_muffinman_nopayment" name="Se deseja jogar por ouro, você deverá ter alcançado no mínimo o nível 10."  />
 			<text id="dialogwin_muffinman_noregister" name="Você só poderá jogar &quot;Encontre o Recheio&quot; como usuário registrado!"  />
 			<text id="dialogwin_muffinman_nosale" name="Você não deve vender sua assadora de muffins!"  />
 			<text id="dialogwin_muffinman_onlyonebuy" name="Você deve posicionar apenas uma máquina de muffin em seu Café!"  />
-			<text id="dialogwin_muffinman_placedbet" name="Muito bem! Em que Muffin está escondido o recheio?"  />
+			<text id="dialogwin_muffinman_placedbet" name="Muito bem! Em que bolinho está escondido o recheio?"  />
 			<text id="dialogwin_muffinman_toohighbet" name="Você não pode apostar tanto! Sua aposta máxima é de {0} Gold e {1} Cafédólares!"  />
-			<text id="dialogwin_muffinman_wonbet" name="Mmhm,que gostoso! Você encontrou o recheio! Tente novamente mais tarde."  />
+			<text id="dialogwin_muffinman_wonbet" name="Mmhm,que gostoso! Você encontrou o recheio! Aproveite sua recompensa."  />
 			<text id="dialogwin_nomoney_avatarchange" name="Você não tem ouro suficiente para trocar de roupa!"  />
-			<text id="dialogwin_nomoney_clean_copy" name="Você não tem Cafédólares suficientes para limpar seu fogão"  />
-			<text id="dialogwin_nomoney_copy" name="Opa! Você não tem Cafédólares/ouro suficientes para comprar esse ítem."  />
+			<text id="dialogwin_nomoney_clean_copy" name="Você não tem Cafédólares suficientes para limpar seu fogão. Sabão custa caro!"  />
+			<text id="dialogwin_nomoney_copy" name="Opa! Você não tem Cafédólares/ouro suficientes para comprar esse item."  />
 			<text id="dialogwin_nomoney_courier" name="Você não tem Cafédólares/ouro suficientes para pagar o serviço de entrega!"  />
 			<text id="dialogwin_nomoney_instantcook_copy" name="Você não tem ouro suficiente para terminar de cozinhar agora."  />
 			<text id="dialogwin_nomoney_moregold" name="Comprar Cafédólares/ouro"  />
-			<text id="dialogwin_nomoney_npchire" name="Você não tem ouro suficiente para contratar um novo garçon!"  />
+			<text id="dialogwin_nomoney_npchire" name="Você não tem ouro suficiente para contratar um funcionário!"  />
 			<text id="dialogwin_nomoney_ok" name="OK"  />
 			<text id="dialogwin_nomoney_title" name="Não há Cafédólares/ouro suficientes"  />
 			<text id="dialogwin_noreward_copy" name="Um outro jogador já buscou a recompensa!"  />
@@ -554,12 +554,12 @@ Dê um pouco dela aos seus amigos!"  />
 			<text id="dialogwin_presentreceived_copy" name="Seu presente de boas vindas de {0} foi creditado na sua conta."  />
 			<text id="dialogwin_presentreceived_title" name="Presente recebido!"  />
 			<text id="dialogwin_presentreminder_btn_send" name="Enviar"  />
-			<text id="dialogwin_presentreminder_copy1" name="Clique no Link-Ouro do e-mail e receba {0} ouro!"  />
+			<text id="dialogwin_presentreminder_copy1" name="Clique no link de ouro do e-mail e receba {0} ouro!"  />
 			<text id="dialogwin_presentreminder_copy2" name="Sim, envie agora {0} ouro para meu endereço de e-mail:"  />
 			<text id="dialogwin_presentreminder_title" name="{0} ouro para você!"  />
 			<text id="dialogwin_receiveitem_copy" name="Sua recompensa encontra-se em sua caixa de presentes!"  />
 			<text id="dialogwin_receiveitem_title" name="Hurra!"  />
-			<text id="dialogwin_receivemoney_copy" name="Sua recompensa já lhe foi transferida!"  />
+			<text id="dialogwin_receivemoney_copy" name="Sua recompensa já foi transferida!"  />
 			<text id="dialogwin_receivemoney_title" name="Parabéns!"  />
 			<text id="dialogwin_refreshfood_btn_clean" name="Limpar"  />
 			<text id="dialogwin_refreshfood_btn_refresh" name="Recuperar comida"  />
@@ -568,17 +568,17 @@ Dê um pouco dela aos seus amigos!"  />
 			<text id="dialogwin_register_mail" name="E-mail"  />
 			<text id="dialogwin_register_password" name="Senha"  />
 			<text id="dialogwin_register_title" name="Registrar"  />
-			<text id="dialogwin_sendgift_send" name="presentear"  />
-			<text id="dialogwin_sendgift_titel" name="presentear"  />
+			<text id="dialogwin_sendgift_send" name="Presentear"  />
+			<text id="dialogwin_sendgift_titel" name="Presentear"  />
 			<text id="dialogwin_settings_email" name="Bloquear o recebimento de e-mails"  />
 			<text id="dialogwin_settings_general" name="Geral"  />
 			<text id="dialogwin_settings_high" name="alta"  />
 			<text id="dialogwin_settings_low" name="baixa"  />
 			<text id="dialogwin_settings_medium" name="média"  />
 			<text id="dialogwin_settings_quality" name="Qualidade"  />
-			<text id="dialogwin_shippingconfirmation_copy1" name="Clique no link do e-mail para retirar o ouro."  />
+			<text id="dialogwin_shippingconfirmation_copy1" name="Clique no link do e-mail para receber o ouro."  />
 			<text id="dialogwin_shippingconfirmation_copy2" name="O e-mail ainda não chegou? Pode demorar alguns minutos. Se não tiver nada na pasta de Spam o suporte te ajuda."  />
-			<text id="dialogwin_shippingconfirmation_title" name="E-Mail Ouro a caminho!"  />
+			<text id="dialogwin_shippingconfirmation_title" name="E-Mail de ouro a caminho!"  />
 			<text id="dialogwin_smoothiemakerhelp_copy" name="Aqui você poderá fazer bebidas e serví-las aos seus clientes. Escolha uma bebida e clique &quot;misturar&quot;.
 
 Para servir uma bebida, só basta clicar em um cliente &quot;com sede&quot; antes dele se sentar.
@@ -593,38 +593,38 @@ Espere até a sua Frosty estiver vazia para produzir novas bebidas!"  />
 Prepare algo novo!"  />
 			<text id="dialogwin_smoothiemaker_onlyonebuy" name="Você só pode colocar uma Frosty em seu Café!"  />
 			<text id="dialogwin_smoothiemaker_txt_title" name="FROSTY"  />
-			<text id="dialogwin_staffmanagement_btn_fire" name="Demitir funcionário"  />
+			<text id="dialogwin_staffmanagement_btn_fire" name="Demitir funcionário(a)"  />
 			<text id="dialogwin_staffmanagement_favorite" name="Ocupação?"  />
 			<text id="dialogwin_staffmanagement_favorite0" name="Recolher"  />
 			<text id="dialogwin_staffmanagement_favorite100" name="Servir"  />
 			<text id="dialogwin_staffmanagement_fire" name="Demitir?"  />
-			<text id="dialogwin_staffmanagement_renamecopy" name="Dê um novo nome ao seu garçon:"  />
+			<text id="dialogwin_staffmanagement_renamecopy" name="Dê um novo nome ao seu funcionário:"  />
 			<text id="dialogwin_staffmanagement_renametitle" name="Renomear?"  />
 			<text id="dialogwin_staff_hire" name="Contratar"  />
-			<text id="dialogwin_staff_management" name="Organizar"  />
-			<text id="dialogwin_staff_new" name="Novos garçons"  />
-			<text id="dialogwin_staff_title" name="Seus garçons"  />
-			<text id="dialogwin_welcomeback_text" name="Você recebe de presente:{0} ouro"  />
-			<text id="dialogwin_welcomeback_text2" name="Você recebe como presente: {0} ouro e 3 ingredientes extravagantes."  />
+			<text id="dialogwin_staff_management" name="Gerenciar"  />
+			<text id="dialogwin_staff_new" name="Novos funcionários"  />
+			<text id="dialogwin_staff_title" name="Seus fucnionários"  />
+			<text id="dialogwin_welcomeback_text" name="Você recebeu de presente:{0} ouro"  />
+			<text id="dialogwin_welcomeback_text2" name="Você recebe como presente: {0} ouro e 3 ingredientes especiais."  />
 			<text id="dialogwin_welcomeback_text3" name=""  />
-			<text id="dialogwin_welcomeback_title" name="Seja bem-vindo {0}!"  />
+			<text id="dialogwin_welcomeback_title" name="Seja bem-vindo(a) {0}!"  />
 			<text id="dialogwin_wheeloffortune_beforespin" name="Gire a roda da fortuna e ganhe prêmios incríveis!"  />
 			<text id="dialogwin_wheeloffortune_btn_go" name="Rodar!"  />
 			<text id="dialogwin_wheeloffortune_btn_towheel" name="Para a roda da fortuna"  />
 			<text id="dialogwin_wheeloffortune_copy1" name="Já girou a roda da fortuna hoje?"  />
-			<text id="dialogwin_wheeloffortune_header" name="A RODA DA FORTUNA!"  />
-			<text id="dialogwin_wheeloffortune_info" name="A primeira rodada por dia é de graça!"  />
-			<text id="dialogwin_wheeloffortune_info1" name="Cada próxima rodada custará um Ouro!"  />
+			<text id="dialogwin_wheeloffortune_header" name="MA-OÊ, A RODA DA FORTUNA!"  />
+			<text id="dialogwin_wheeloffortune_info" name="A primeira do dia é de graça!"  />
+			<text id="dialogwin_wheeloffortune_info1" name="Cada próxima rodada custará 1 ouro!"  />
 			<text id="dialogwin_wheeloffortune_nomoney" name="Você não tem ouro suficiente para girar a roda da fortuna!"  />
 			<text id="dialogwin_wheeloffortune_noregister" name="Você só poderá girar a roda da fortuna se for um jogador registrado!"  />
 			<text id="dialogwin_wheeloffortune_nospace" name="Você não tem espaço em sua caixa de presentes para colocar o que você ganhou!
-Arrume um espaço, para poder girar a roda da fortuna!"  />
+Arrume um espaço para poder girar a roda da fortuna!"  />
 			<text id="dialogwin_wheeloffortune_title" name="A roda da fortuna!"  />
 			<text id="dialogwin_wheeloffortune_tryagain" name="Tente novamente mais tarde!"  />
 			<text id="dialogwin_wheeloffortune_wonbet" name="Parabéns!
 Seu prêmio:"  />
 			<text id="dialogwin_wheeloffortune_woncash" name="Parabéns!
-Seu prêmio já lhe foi enviado!"  />
+Seu prêmio já foi enviado!"  />
 			<text id="dialogwin_wheeloffortune_wonfood" name="Parabéns!
 Você encontrará seu presente em sua caixa de presentes!"  />
 			<text id="dialogwin_wheeloffortune_wongold" name="Você ganhou o pote dourado!"  />
@@ -634,7 +634,7 @@ Você já pode encontrar seu prêmio em seu estoque!"  />
 		<error_codes>
 			<text id="achievement_error" name="Premiação"  />
 			<text id="achievement_errorcode_1" name="Erro"  />
-			<text id="cafechat_errorcode_23" name="Sua função de bate-papo foi desativada provisóriamente pelo sistema adminstrador ."  />
+			<text id="cafechat_errorcode_23" name="Sua função de bate-papo foi desativada pelo sistema por enquanto."  />
 			<text id="cafechat_errorcode_24" name="Favor não encher o bate-papo com spams!"  />
 			<text id="cafewalk_errorcode_1" name="Atenção!"  />
 			<text id="cafewalk_errorcode_23" name="Você não pode andar nesse espaço."  />
