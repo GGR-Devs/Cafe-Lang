@@ -1227,20 +1227,20 @@ Apenas disponível por tempo limitado!"  />
 		</preparestep>
 		<preparestep_fancy>
 			<text id="preparestep_bananasplit_vanilla" name="Raspar baunilha"  />
-			<text id="preparestep_blackforestcherrycake_vanilla" name="raspar baunilha"  />
-			<text id="preparestep_cheeseburger_chili" name="Cortar Chili"  />
+			<text id="preparestep_blackforestcherrycake_vanilla" name="Raspar baunilha"  />
+			<text id="preparestep_cheeseburger_chili" name="Cortar chili"  />
 			<text id="preparestep_cheesedish_parsley" name="Picar salsinha"  />
-			<text id="preparestep_cheesefondue_chili" name="Cortar Chili"  />
+			<text id="preparestep_cheesefondue_chili" name="Cortar chili"  />
 			<text id="preparestep_cherriecake_vanilla" name="Raspar baunilha"  />
 			<text id="preparestep_cherrycompote_vanilla" name="Raspar baunilha"  />
 			<text id="preparestep_chickenburger_chili" name="Picar chili"  />
-			<text id="preparestep_chickensalad_chili" name="Cortar Chili"  />
-			<text id="preparestep_chickensoup_parsley" name="picar salsa"  />
-			<text id="preparestep_chiliconcarne_chili" name="picar chili"  />
+			<text id="preparestep_chickensalad_chili" name="Cortar chili"  />
+			<text id="preparestep_chickensoup_parsley" name="Picar salsa"  />
+			<text id="preparestep_chiliconcarne_chili" name="Picar chili"  />
 			<text id="preparestep_chocmousse_vanilla" name="Raspar baunilha"  />
 			<text id="preparestep_chocolatecake_vanilla" name="Raspar baunilha"  />
 			<text id="preparestep_chocolatecheesecake_vanilla" name="Raspar baunilha"  />
-			<text id="preparestep_chocolatefondue_cinnamon" name="pulverizar canela"  />
+			<text id="preparestep_chocolatefondue_cinnamon" name="Espalhar canela"  />
 			<text id="preparestep_christmasturkey_rosemary" name="Picar alecrim"  />
 			<text id="preparestep_cookieplate_cinnamon" name="Moer canela"  />
 			<text id="preparestep_cornonthecob_parsley" name="Picar salsinha"  />
@@ -1254,7 +1254,7 @@ Apenas disponível por tempo limitado!"  />
 			<text id="preparestep_fruitsalad_vanilla" name="Raspar baunilha"  />
 			<text id="preparestep_gardensalad_parsley" name="Picar salsinha"  />
 			<text id="preparestep_greensalad_parsley" name="Picar salsinha"  />
-			<text id="preparestep_gumbo_chili" name="Cortar Chili"  />
+			<text id="preparestep_gumbo_chili" name="Cortar chili"  />
 			<text id="preparestep_hamburger_chili" name="Cortar chili"  />
 			<text id="preparestep_hotcherrywaffles_vanilla" name="Raspar baunilha"  />
 			<text id="preparestep_jamspongepudding_vanilla" name="Raspar baunilha"  />
@@ -1262,18 +1262,18 @@ Apenas disponível por tempo limitado!"  />
 			<text id="preparestep_macncheese_nutmeg" name="Ralar noz moscada"  />
 			<text id="preparestep_maplepancakes_vanilla" name="Raspar baunilha"  />
 			<text id="preparestep_marblecake_vanilla" name="Raspar baunilha"  />
-			<text id="preparestep_mexicansalad_chili" name="Cortar Chili"  />
+			<text id="preparestep_mexicansalad_chili" name="Cortar chili"  />
 			<text id="preparestep_minestrone_basil" name="Pegar folhas de manjericão"  />
 			<text id="preparestep_mixedsalad_parsley" name="Picar salsinha"  />
-			<text id="preparestep_nasigoreng_chili" name="Cortar Chili"  />
+			<text id="preparestep_nasigoreng_chili" name="Cortar chili"  />
 			<text id="preparestep_newyorkcheesecake_vanilla" name="Raspar baunilha"  />
 			<text id="preparestep_noodlesalad_parsley" name="Picar salsinha"  />
 			<text id="preparestep_omelette_chili" name="Picar chili"  />
-			<text id="preparestep_onionsoup_chili" name="Cortar Chili"  />
+			<text id="preparestep_onionsoup_chili" name="Cortar chili"  />
 			<text id="preparestep_peasoup_parsley" name="Picar salsinha"  />
 			<text id="preparestep_pizzahawaii_chili" name="Picar chili"  />
 			<text id="preparestep_pizzatonno_horseradish" name="Ralar raiz-forte"  />
-			<text id="preparestep_pizza_chili" name="Cortar Chili"  />
+			<text id="preparestep_pizza_chili" name="Cortar chili"  />
 			<text id="preparestep_porkroastwithcrackling_rosemary" name="Picar alecrim"  />
 			<text id="preparestep_potatosalad_parsley" name="Picar salsinha"  />
 			<text id="preparestep_redberrycompote_vanilla" name="Raspar baunilha"  />
@@ -1282,22 +1282,22 @@ Apenas disponível por tempo limitado!"  />
 			<text id="preparestep_sandwich_parsley" name="Picar salsa"  />
 			<text id="preparestep_scouse_parsley" name="Picar salsinha"  />
 			<text id="preparestep_spagetti_basil" name="Pegar folhas de manjericão"  />
-			<text id="preparestep_spareribs_chili" name="Cortar Chili"  />
+			<text id="preparestep_spareribs_chili" name="Cortar chili"  />
 			<text id="preparestep_steakkidneypie_parsley" name="Picar salsinha"  />
 			<text id="preparestep_steak_parsley" name="Picar salsinha"  />
 			<text id="preparestep_stewedrhubarb_vanilla" name="Raspar baunilha"  />
-			<text id="preparestep_stew_chili" name="Cortar Chili"  />
+			<text id="preparestep_stew_chili" name="Cortar chili"  />
 			<text id="preparestep_strawberrycake_vanilla" name="Raspar baunilha"  />
-			<text id="preparestep_strawberrymousse_vanilla" name="raspar baunilha"  />
+			<text id="preparestep_strawberrymousse_vanilla" name="Raspar baunilha"  />
 			<text id="preparestep_stuffedpeppers_parsley" name="Picar salsinha"  />
 			<text id="preparestep_sundayfeast_rosemary" name="Picar alecrim"  />
 			<text id="preparestep_sushi_horseradish" name="Ralar raiz forte"  />
 			<text id="preparestep_toadinhole_rosemary" name="Picar alecrim"  />
-			<text id="preparestep_toast_chili" name="Cortar Chili"  />
+			<text id="preparestep_toast_chili" name="Cortar chili"  />
 			<text id="preparestep_tofuburger_chili" name="Picar chili"  />
 			<text id="preparestep_tomatosoup_basil" name="Pegar folhas de manjericão"  />
 			<text id="preparestep_trifle_vanilla" name="Raspar baunilha"  />
-			<text id="preparestep_veganstirfry_chili" name="Cortar Chili"  />
+			<text id="preparestep_veganstirfry_chili" name="Cortar chili"  />
 			<text id="preparestep_vegetablesoup_basil" name="Pegar folhas de manjericão"  />
 			<text id="preparestep_veggiecurry_coriander" name="Picar coentro"  />
 			<text id="preparestep_veggielasagne_basil" name="Pegar folhas de manjericão"  />
