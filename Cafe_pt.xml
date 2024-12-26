@@ -1817,7 +1817,7 @@ Caso tenha perguntas em relação ao banimento fale com o suporte."  />
 				<text id="loading_text_default" name="Inialisação"  />
 				<text id="loading_text_itemXML" name="Carregar elementos do jogo"  />
 				<text id="progress_loadfiles" name="Gráficos estão sendo carregados..."  />
-				<text id="progress_serverconnection" name="Conectar-se com o servidor de jogo..."  />
+				<text id="progress_serverconnection" name="Conectando-se ao o servidor de jogo..."  />
 			</progressbar>
 			<register>
 				<text id="generic_register_agb_copy" name="Sem os termos de condição não é possível. Simplesmente leia e confirme com o botão da esquerda para poder prosseguir!"  />
@@ -1842,9 +1842,9 @@ Caso tenha perguntas em relação ao banimento fale com o suporte."  />
 				<text id="generic_register_letsgo" name="Vamos lá!"  />
 				<text id="generic_register_namealreadyused" name="Este nome já está sendo utilizado."  />
 				<text id="generic_register_namenotvalid" name="O nome que você digitou é inválido."  />
-				<text id="generic_register_nameshort" name="Infelizmente, o seu nome é demasiado curto. Deveria ter pelo menos 4 caracteres."  />
-				<text id="generic_register_namelong" name="Infelizmente, o seu nome é demasiado longo. O comprimento máximo é de 24 caracteres."  />
-				<text id="generic_register_passwordshort_copy" name="A senha digitada é muito curta. Ela deverá ter no mínimo 4 letras."  />
+				<text id="generic_register_nameshort" name="Infelizmente, o seu nome é muito curto. Deveria ter pelo menos 4 caracteres."  />
+				<text id="generic_register_namelong" name="Infelizmente, o seu nome é muito longo. O comprimento máximo é de 24 caracteres."  />
+				<text id="generic_register_passwordshort_copy" name="A senha digitada é muito curta. Ela deverá ter no mínimo 4 caracteres."  />
 				<text id="generic_register_passwordwrong_copy" name="A senha que você digitou está incorreta."  />
 				<text id="generic_register_password_copy" name="Sua senha não pode ser vazia ou conter símbolos especiais."  />
 				<text id="generic_register_receivenews" name="Receber notícias"  />
@@ -1856,18 +1856,18 @@ Caso tenha perguntas em relação ao banimento fale com o suporte."  />
 				<text id="generic_register_unlock" name="Desbloquear esta função!"  />
 			</register>
 			<report>
-				<text id="generic_report_muted_badword1_copy" name="Cuidado com a maneira de expressar-se. Senão você ficará impedido temporariamente de utilizar o bate papo ou até o seu Account.
+				<text id="generic_report_muted_badword1_copy" name="Preste atenção nas suas mensagens. Seu bate-papo pode ficar bloqueado por um tempou ou sua conta pode ser banida temporariamente.
 Motivo {0}"  />
-				<text id="generic_report_muted_badword2_copy" name="Você está impedido de utilizar o bate-papo nas próximas {0} horas por comportamento proibido repetido. Motivo: {1}"  />
-				<text id="generic_report_muted_domain1" name="Não há endereços de internet no bate-papo!"  />
-				<text id="generic_report_muted_reported_copy" name="Vários jogadores queixaram-se sobre você. Você não poderá utilizar o bate-papo nas próximas {0} horas. Motivo {1}"  />
+				<text id="generic_report_muted_badword2_copy" name="Você está impedido de utilizar o bate-papo nas próximas {0} horas porque se comportou mal. Motivo: {1}"  />
+				<text id="generic_report_muted_domain1" name="Não mande links no bate-papo!"  />
+				<text id="generic_report_muted_reported_copy" name="Vários jogadores reportaram você. Você não poderá utilizar o bate-papo nas próximas {0} horas. Motivo {1}"  />
 				<text id="generic_report_player_copy" name="Você realmente quer reportar o jogador {0}?"  />
 				<text id="generic_report_player_reason_0" name="Ofensa"  />
 				<text id="generic_report_player_reason_1" name="Assédio sexual"  />
 				<text id="generic_report_player_reason_2" name="Opinião racista"  />
 				<text id="generic_report_player_reason_3" name="Ameaça/Chantagem"  />
 				<text id="generic_report_player_reason_title" name="Motivo da denúncia:"  />
-				<text id="generic_report_player_title" name="Reporte jogador!"  />
+				<text id="generic_report_player_title" name="Reportar jogador!"  />
 				<text id="generic_report_reported_copy" name="Você foi reportado ao sistema administrador por outro jogador. Motivo: {0}"  />
 			</report>
 			<worlds>
