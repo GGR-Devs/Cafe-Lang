@@ -2,66 +2,66 @@
 <!-- goodgamestudios CAFE - pt - 6 -->
 	<cafe>
 		<achievement>
-			<text id="Basic_Achievement_Boughtdeco" name="Restaurante apetitoso"  />
-			<text id="Basic_Achievement_Boughtingredients" name="Imperador dos ingredientes"  />
-			<text id="Basic_Achievement_Cookingcount" name="Bristo ocupado"  />
-			<text id="Basic_Achievement_Coopcount" name="Cooperador polivalente"  />
-			<text id="Basic_Achievement_Coopgoldcount" name="Cozinheiro brilhante"  />
-			<text id="Basic_Achievement_Curiercount" name="Entregador exclusivo"  />
-			<text id="Basic_Achievement_Differentdishes" name="Vegetal Virtuoso"  />
-			<text id="Basic_Achievement_Earnedchips" name="Cozinheiro astuto"  />
-			<text id="Basic_Achievement_Fancycount" name="Colega delicioso"  />
-			<text id="Basic_Achievement_Firenpc" name="Arrasador de empregos"  />
-			<text id="Basic_Achievement_Instantcount" name="Aperitivo ansioso"  />
-			<text id="Basic_Achievement_Jobclean" name="Limpador frenético"  />
-			<text id="Basic_Achievement_Jobserve" name="Distribuidor entusiástico"  />
-			<text id="Basic_Achievement_Masteies" name="Cortador mais rápido"  />
-			<text id="Basic_Achievement_Masteriesgold" name="Cortador dourado"  />
-			<text id="Basic_Achievement_Muffinmancash" name="Muffin Generoso"  />
-			<text id="Basic_Achievement_Muffinmangold" name="Muffin Dourado"  />
-			<text id="Basic_Achievement_Overcookedfoods" name="Rei do estrago"  />
-			<text id="Basic_Achievement_Servingcountmeals" name="Bolinho substancioso"  />
-			<text id="Basic_Achievement_Servingcountsalads" name="Amostra fresca"  />
-			<text id="Basic_Achievement_Servingcountsnacks" name="Dispositivo criador de petiscos"  />
-			<text id="Basic_Achievement_Servingcountsoups" name="Sopeiro embaralhado"  />
-			<text id="Basic_Achievement_Servingcountsweets" name="Padeiro dedicado"  />
-			<text id="Basic_Achievement_Servingcountvegans" name="Couve-flor florido"  />
-			<text id="Basic_Achievement_Servingscount" name="Alimentador de famílias"  />
-			<text id="Basic_Achievement_Solditems" name="Negociante das refeições"  />
-			<text id="Basic_Achievement_Spentchips" name="Chef generoso"  />
-			<text id="Basic_Achievement_Spentgold" name="Gastrônomo dourado"  />
-			<text id="Basic_Achievement_Wheeloffortune" name="Petisco girador"  />
-			<text id="Social_Achievement_Friendscount" name="Churrasqueiro social"  />
+			<text id="Basic_Achievement_Boughtdeco" name="Restaurante Decorado"  />
+			<text id="Basic_Achievement_Boughtingredients" name="Realeza dos Ingredientes"  />
+			<text id="Basic_Achievement_Cookingcount" name="Balcão Ocupado"  />
+			<text id="Basic_Achievement_Coopcount" name="Cooperação Garantida"  />
+			<text id="Basic_Achievement_Coopgoldcount" name="Cooperação de Ouro"  />
+			<text id="Basic_Achievement_Curiercount" name="Delivery Amigo"  />
+			<text id="Basic_Achievement_Differentdishes" name="Cozinha Variada"  />
+			<text id="Basic_Achievement_Earnedchips" name="Restaurante Lucrativo"  />
+			<text id="Basic_Achievement_Fancycount" name="Toque Premium"  />
+			<text id="Basic_Achievement_Firenpc" name="Hora da Demissão"  />
+			<text id="Basic_Achievement_Instantcount" name="Apressado Come Cru"  />
+			<text id="Basic_Achievement_Jobclean" name="Limpeza em Primeiro Lugar"  />
+			<text id="Basic_Achievement_Jobserve" name="Um Prazer em Servir"  />
+			<text id="Basic_Achievement_Masteies" name="Cozinha Estelar"  />
+			<text id="Basic_Achievement_Masteriesgold" name="A Estrela Mais Brilhante"  />
+			<text id="Basic_Achievement_Muffinmancash" name="Bolinho Endinheirado"  />
+			<text id="Basic_Achievement_Muffinmangold" name="Bolinho Dourado"  />
+			<text id="Basic_Achievement_Overcookedfoods" name="Realeza do Estrago"  />
+			<text id="Basic_Achievement_Servingcountmeals" name="Uma Refeição Completa"  />
+			<text id="Basic_Achievement_Servingcountsalads" name="Ingredientes Frescos"  />
+			<text id="Basic_Achievement_Servingcountsnacks" name="Quem Arrisca Não Petisca"  />
+			<text id="Basic_Achievement_Servingcountsoups" name="Sopas Ensopadas"  />
+			<text id="Basic_Achievement_Servingcountsweets" name="Um Doce de Pessoa"  />
+			<text id="Basic_Achievement_Servingcountvegans" name="Opção Vegetariana"  />
+			<text id="Basic_Achievement_Servingscount" name="Restaurante Movimentado"  />
+			<text id="Basic_Achievement_Solditems" name="Negociante dos Móveis"  />
+			<text id="Basic_Achievement_Spentchips" name="Investimento no Restaurante"  />
+			<text id="Basic_Achievement_Spentgold" name="Investimentos Dourados"  />
+			<text id="Basic_Achievement_Wheeloffortune" name="Roda-a-Roda"  />
+			<text id="Social_Achievement_Friendscount" name="Amigos de Montão"  />
 		</achievement>
 		<alerts>
 			<text id="alert_addcash_copy" name="Aqui você pode comprar ouro/Cafédólares."  />
 			<text id="alert_addcash_title" name="Caixa"  />
-			<text id="alert_addFriend_copy" name="Você gostaria de incluir {0} como amigo?"  />
+			<text id="alert_addFriend_copy" name="Você quer adicionar {0} como amigo(a)?"  />
 			<text id="alert_addFriend_denied_copy" name="{0} rejeitou seu pedido."  />
 			<text id="alert_addFriend_denied_title" name="Pedido rejeitado!"  />
 			<text id="alert_addFriend_title" name="Pedido de amizade"  />
 			<text id="alert_addgold_copy" name="Você tem que se registrar primeiro para fazer compras aqui!"  />
 			<text id="alert_addgold_title" name="Registrar"  />
-			<text id="alert_avatarcustom_copy" name="Você não pode mudar enquanto estiver trabalhando!"  />
-			<text id="alert_buytiles_copy" name="1. Escolha um azulejo\n2. Selecione com o botão do mouse a área desejada em seu café.\n3. Solte"  />
+			<text id="alert_avatarcustom_copy" name="Você não pode mudar sua aparência enquanto estiver trabalhando!"  />
+			<text id="alert_buytiles_copy" name="1. Escolha um azulejo\n2. Selecione com o botão do mouse a área desejada em seu café.\n3. Solte e confirme ou cancele sua compra."  />
 			<text id="alert_buytiles_title" name="Colocar azulejos?"  />
-			<text id="alert_changePasswordFaild_copy" name="Sua nova senha deve ter mais que 2 símbolos e a antiga senha tem que ser digitada corretamente!"  />
+			<text id="alert_changePasswordFaild_copy" name="Sua nova senha deve ter mais que 2 caracteres e a senha antiga tem que ser digitada corretamente!"  />
 			<text id="alert_changePasswordFaild_title" name="Digitar senha"  />
 			<text id="alert_clearstove_cancelButton" name="Manter"  />
 			<text id="alert_clearstove_okButton" name="Jogar fora"  />
 			<text id="alert_clearstove_title" name="Um prato está sendo servido desse balcão. Você gostaria de mantê-lo?"  />
 			<text id="alert_counter_outofreach_copy" name="Balcão fora de alcance. Tente mudar algo de lugar!"  />
 			<text id="alert_counter_outofreach_title" name="Atenção!"  />
-			<text id="alert_dekoshop_humanwaiter_copy" name="Enquanto houver outros jogadores trabalhando como garçon no seu Café você não pode mudar para o modo de reformas."  />
+			<text id="alert_dekoshop_humanwaiter_copy" name="Enquanto houver outros jogadores trabalhando no seu Café você não pode entrar no Modo Decoração."  />
 			<text id="alert_dekoshop_humanwaiter_title" name="De jeito nenhum!"  />
-			<text id="alert_dekoshop_kickplayer_copy" name="Ainda há jogadores em seu Café. Se você quiser fazer reformas agora, expulse os jogadores do seu Café."  />
+			<text id="alert_dekoshop_kickplayer_copy" name="Ainda há jogadores em seu Café. Se você quiser decorar agora, expulse os jogadores do seu Café."  />
 			<text id="alert_dekoshop_kickplayer_title" name="Atenção!"  />
-			<text id="alert_FancyCooking_copy" name="Você gostaria de incrementar o prato e ganhar assim mais {0} XP e {1} porções extra?"  />
-			<text id="alert_FancyCooking_title" name="Ingredientes extravagantes"  />
-			<text id="alert_fancyinfo_copy" name="Se você temperar um prato com um ingrediente extravagante você poderá conseguir até 20% mais XP e mais porções para servir! E os ingredientes extravagantes não ocupam nenhum espaço em sua geladeira!"  />
-			<text id="alert_fancyinfo_title" name="Ingredientes Extravagantes!"  />
+			<text id="alert_FancyCooking_copy" name="Que tal adicionar um ingrediente especial e ganhar mais {0} XP e {1} porção ou porções extras?"  />
+			<text id="alert_FancyCooking_title" name="Ingredientes Especiais"  />
+			<text id="alert_fancyinfo_copy" name="Se você temperar um prato com um ingrediente especial você poderá conseguir até 20% mais XP e mais porções para servir! E os ingredientes especiais não ocupam nenhum espaço em sua geladeira!"  />
+			<text id="alert_fancyinfo_title" name="Ingredientes Especiais!"  />
 			<text id="alert_giftboxfull_copy" name="Sua caixa de presentes está cheia! Você não pode receber novos presentes de seus amigos!"  />
-			<text id="alert_giftboxfull_title" name="Não há mais lugar!"  />
+			<text id="alert_giftboxfull_title" name="Não há espaço!"  />
 			<text id="alert_guestchangepassword_copy" name="Você só pode mudar sua senha como jogador registrado!"  />
 			<text id="alert_guestchangepassword_title" name="Registrar-se primeiro"  />
 			<text id="alert_guestcoop_copy" name="Você deve se registrar para jogar cooperações!"  />
@@ -73,13 +73,13 @@
 			<text id="alert_help_title" name="Ajuda"  />
 			<text id="alert_invitefriend_confirmed_copy" name="Seu convite foi enviado para {0}!"  />
 			<text id="alert_invitefriend_confirmed_title" name="Convite enviado!"  />
-			<text id="alert_invitefriend_copy" name="Dê o nome e o endereço de e-mail do seu amigo para convidá-lo."  />
+			<text id="alert_invitefriend_copy" name="Informe o nome e o endereço de e-mail do seu amigo para convidá-lo."  />
 			<text id="alert_invitefriend_mail" name="Endereço de e-mail do seu amigo:"  />
 			<text id="alert_invitefriend_myname" name="Seu nome:"  />
 			<text id="alert_invitefriend_name" name="Nome do seu amigo:"  />
 			<text id="alert_invitefriend_title" name="Convidar amigo"  />
-			<text id="alert_jobhelp_copy1" name="Buscar a comida no balcão\n2. Servir cliente a espera"  />
-			<text id="alert_jobhelp_copy2" name="Buscar o prato da mesa (também vários)\n2. Levar ao balcão"  />
+			<text id="alert_jobhelp_copy1" name="Clique no balcão e pegue um prato.\n2. Clique no cliente que está esperando."  />
+			<text id="alert_jobhelp_copy2" name="Clique e pegue um prato sujo da mesa (você pode pegar mais de um)\n2. Clique em qualquer balcão para devolver o(s) pratos(s)"  />
 			<text id="alert_jobhelp_header1" name="Servir clientes"  />
 			<text id="alert_jobhelp_header2" name="Recolher pratos"  />
 			<text id="alert_jobhelp_title" name="Suas tarefas"  />
@@ -87,54 +87,54 @@
 			<text id="alert_jobrefill_title" name="Registrar"  />
 			<text id="alert_lostpassword_copy" name="Dê seu endereço de e-mail e nós lhe mandaremos sua senha."  />
 			<text id="alert_lostpassword_title" name="Esqueci a senha"  />
-			<text id="alert_marketplace_jobcancled_copy" name="{0} rejeitou sua oferta de trabalho!"  />
+			<text id="alert_marketplace_jobcancled_copy" name="{0} não aceitou sua oferta de trabalho!"  />
 			<text id="alert_marketplace_jobcancled_title" name="Trabalho rejeitado"  />
-			<text id="alert_marketplace_jobempty_copy" name="Você já usou todas as suas permissões de trabalho de hoje."  />
+			<text id="alert_marketplace_jobempty_copy" name="Você já usou todas as suas permissões de trabalho de hoje. Hora de descansar!"  />
 			<text id="alert_marketplace_jobempty_title" name="Não há mais permissões de trabalho!"  />
 			<text id="alert_marketplace_jobhired_copy" name="{0} aceitou sua oferta de trabalho!"  />
 			<text id="alert_marketplace_jobhired_title" name="Trabalho aceito"  />
-			<text id="alert_marketplace_job_copy" name="{0} (nível {1}) te ofereceu um trabalho como garçon. Você gostaria de aceitá-lo?"  />
+			<text id="alert_marketplace_job_copy" name="{0} (nível {1}) te ofereceu um trabalho no Café dele(a). Você quer?"  />
 			<text id="alert_marketplace_job_title" name="Oferta de trabalho!"  />
 			<text id="alert_marketplace_noticeboard_copy" name="Anuncie aqui que você está procurando um trabalho, ou se você já trabalhou, pode recarregar suas permissões de trabalho aqui."  />
 			<text id="alert_marketplace_noticeboard_title" name="Permissões de trabalho"  />
 			<text id="alert_marketplace_playerjobempty_copy" name="Esse jogador já trabalhou bastante."  />
 			<text id="alert_marketplace_playerjobempty_title" name="Trabalho rejeitado"  />
-			<text id="alert_marketplace_playerleaved_copy" name="O jogador deixou o mercado."  />
-			<text id="alert_marketplace_playerleaved_title" name="Opa!"  />
+			<text id="alert_marketplace_playerleaved_copy" name="O jogador deixou o mercado. Tente contratar outra pessoa."  />
+			<text id="alert_marketplace_playerleaved_title" name="Sumiu!"  />
 			<text id="alert_nofreecounter_copy" name="Não tem balcão livre."  />
 			<text id="alert_nofreecounter_title" name="Opa!"  />
-			<text id="alert_nofridge_copy" name="Você não tem geladeira no seu Café. Dê uma olhada no modo de construção e posicione uma geladeira em seu Café."  />
+			<text id="alert_nofridge_copy" name="Você não tem geladeira no seu Café. Dê uma olhada no Modo Decoração e coloque uma geladeira em seu Café."  />
 			<text id="alert_nofridge_title" name="Não tem geladeira?"  />
-			<text id="alert_nojobpermission_copy" name="Você precisa de uma permissão de trabalho, se quiser procurar por um emprego."  />
+			<text id="alert_nojobpermission_copy" name="Você precisa de uma permissão de trabalho se quiser procurar por um emprego."  />
 			<text id="alert_nojobpermission_title" name="Atenção!"  />
-			<text id="alert_register_agb_copy" name="Sem os termos e condições não é possível. Leia e confirme com o botão esquerdo para poder prosseguir!"  />
+			<text id="alert_register_agb_copy" name="Sem os termos e condições não é possível prosseguir. Leia e confirme com o botão esquerdo para poder prosseguir!"  />
 			<text id="alert_register_email_copy" name="Seu endereço de e-mail não pode ser vazio ou conter símbolos especiais."  />
 			<text id="alert_register_password_copy" name="Sua senha não pode ser vazia ou conter símbolos especiais."  />
 			<text id="alert_register_title" name="Erro de registro"  />
 			<text id="alert_seekingjob_copy" name="Você deve se registrar primeiro para poder trabalhar."  />
 			<text id="alert_seekingjob_title" name="Registrar"  />
-			<text id="alert_selldeco_copy" name="Você realmente quer vender o ítem por {0} cada?"  />
+			<text id="alert_selldeco_copy" name="Você realmente quer vender o item por {0} cada?"  />
 			<text id="alert_selldeco_title" name="Vender?"  />
-			<text id="alert_sellitem_copy" name="Você realmente quer vender o ítem por {0} cada?"  />
+			<text id="alert_sellitem_copy" name="Você realmente quer vender o item por {0} cada?"  />
 			<text id="alert_sellitem_title" name="Vender?"  />
 			<text id="alert_smoothiemaker_full_copy" name="Já existem bebidas em sua Frosty!
 Sirva-as aos seus clientes para poder preparar algo novo!"  />
 			<text id="alert_smoothiemaker_outofreach_copy" name="Não dá para alcançar sua Frosty. Procure mudar algo de lugar!"  />
-			<text id="alert_smoothiemaker_storage_copy" name="Já se encontram bebidas em sua Frosty!
-Se você estocá-la, as porções existentes serão perdidas!"  />
-			<text id="alert_stafffire_copy" name="Você realmente gostaria de demitir o garçon?"  />
-			<text id="alert_stafffire_title" name="Demitir garçon?"  />
-			<text id="alert_staffhire_copy" name="Dê um nome ao seu garçon."  />
+			<text id="alert_smoothiemaker_storage_copy" name="Já tem bebidas em sua Frosty!
+Se você colocar algo agora, as porções existentes serão perdidas!"  />
+			<text id="alert_stafffire_copy" name="Você realmente gostaria de demitir seu funcionário(a)?"  />
+			<text id="alert_stafffire_title" name="Demitir?"  />
+			<text id="alert_staffhire_copy" name="Dê um nome ao seu garçon ou garçonete."  />
 			<text id="alert_staffhire_title" name="Contratar"  />
-			<text id="alert_storefull_copy" name="Sua geladeira está cheia! Venda ingredientes para ter mais espaço de estoque!"  />
+			<text id="alert_storefull_copy" name="Sua geladeira está cheia! Venda ingredientes para ter mais espaço de estoque ou cozinhe algo!"  />
 			<text id="alert_storefull_title" name="A geladeira está cheia!"  />
 			<text id="alert_stove_outofreach_copy" name="Fogão fora de alcance. Tente mudar algo de lugar!"  />
 			<text id="alert_stove_outofreach_title" name="Atenção"  />
-			<text id="alert_unlockitem_copy" name="Receba o ingrediente através de um etregador! A exclusividade tem um preço."  />
+			<text id="alert_unlockitem_copy" name="Receba o ingrediente através de um etregador! A exclusividade (literalmente) vale ouro."  />
 			<text id="alert_unlockitem_title" name="Entrega?"  />
-			<text id="alert_userkicked_copy" name="Você foi expulso do Café."  />
-			<text id="alert_userkicked_title" name="Expulso!"  />
-			<text id="alert_workinghero_copy" name="O cozinheiro ainda precisa trabalhar!"  />
+			<text id="alert_userkicked_copy" name="Você foi expulso(a) do Café."  />
+			<text id="alert_userkicked_title" name="Tchau!"  />
+			<text id="alert_workinghero_copy" name="Ainda há tarefas sendo realizadas pelo(a) Chef!"  />
 			<text id="alert_workinghero_title" name="Espere!"  />
 		</alerts>
 		<commons>
@@ -150,50 +150,50 @@ Se você estocá-la, as porções existentes serão perdidas!"  />
 			<text id="hours" name="Horas"  />
 			<text id="level" name="Nível"  />
 			<text id="logout" name="Logout"  />
-			<text id="mastery" name="Nível de estrela"  />
+			<text id="mastery" name="Nível Estelar"  />
 			<text id="minute" name="Minuto"  />
 			<text id="minutes" name="Minutos"  />
 			<text id="new" name="Novo!"  />
 			<text id="second" name="Segundo"  />
 			<text id="seconds" name="Segundos"  />
 			<text id="sell" name="Vender"  />
-			<text id="usable_character" name="Personagem á disposição"  />
+			<text id="usable_character" name="Personagem disponível"  />
 			<text id="XofY" name="{0} de {1}"  />
 			<text id="xp" name="XP"  />
 		</commons>
 		<cookstep>
 			<text id="cookstep_bananasplit1" name="Gelando sorvete"  />
-			<text id="cookstep_bananasplit2" name="Cortando banana"  />
-			<text id="cookstep_blackforestcherrycake1" name="misturar ingredientes"  />
-			<text id="cookstep_blackforestcherrycake2" name="Assar bolo"  />
+			<text id="cookstep_bananasplit2" name="Cortando bananas"  />
+			<text id="cookstep_blackforestcherrycake1" name="Misturando ingredientes"  />
+			<text id="cookstep_blackforestcherrycake2" name="Assando bolo"  />
 			<text id="cookstep_cheeseburger1" name="Fritando carne moída"  />
-			<text id="cookstep_cheeseburger2" name="Montando hamburger"  />
-			<text id="cookstep_cheesedish1" name="Colocando queijo"  />
-			<text id="cookstep_cheesedish2" name="Deixando queijo maturar"  />
+			<text id="cookstep_cheeseburger2" name="Montando hambúrger"  />
+			<text id="cookstep_cheesedish1" name="Organizando queijos"  />
+			<text id="cookstep_cheesedish2" name="Decorando as tábulas"  />
 			<text id="cookstep_cheesefondue1" name="Assando pão"  />
 			<text id="cookstep_cheesefondue2" name="Aquecendo queijo"  />
-			<text id="cookstep_cherriecake1" name="Misturar ingredientes"  />
-			<text id="cookstep_cherriecake2" name="Assar bolo"  />
-			<text id="cookstep_cherrycompote1" name="cozinhar cerejas"  />
-			<text id="cookstep_cherrycompote2" name="Deixar esfriar"  />
-			<text id="cookstep_chickenburger1" name="fritar galinha"  />
+			<text id="cookstep_cherriecake1" name="Misturando ingredientes"  />
+			<text id="cookstep_cherriecake2" name="Assando bolo"  />
+			<text id="cookstep_cherrycompote1" name="Cozinhando cerejas"  />
+			<text id="cookstep_cherrycompote2" name="Deixando esfriar"  />
+			<text id="cookstep_chickenburger1" name="Fritando frango"  />
 			<text id="cookstep_chickenburger2" name="Arrumando hamburger"  />
 			<text id="cookstep_chickensalad1" name="Fritando frango"  />
 			<text id="cookstep_chickensalad2" name="Preparando salada"  />
-			<text id="cookstep_chickensoup1" name="dourar bacon"  />
-			<text id="cookstep_chickensoup2" name="Cozinhar sopa"  />
-			<text id="cookstep_chiliconcarne1" name="fritar carne moída"  />
+			<text id="cookstep_chickensoup1" name="Dourando bacon"  />
+			<text id="cookstep_chickensoup2" name="Cozinhando sopa"  />
+			<text id="cookstep_chiliconcarne1" name="Fritando carne moída"  />
 			<text id="cookstep_chiliconcarne2" name="Cozinhar Chili"  />
 			<text id="cookstep_chocmousse1" name="Misturando ingredientes"  />
 			<text id="cookstep_chocmousse2" name="Esfriando mousse"  />
 			<text id="cookstep_chocolatecake1" name="Misturando ingredientes"  />
-			<text id="cookstep_chocolatecake2" name="Assando"  />
-			<text id="cookstep_chocolatecheesecake1" name="Derreter chocolate"  />
-			<text id="cookstep_chocolatecheesecake2" name="assar bolo"  />
-			<text id="cookstep_chocolatefondue1" name="Derreter chocolate"  />
+			<text id="cookstep_chocolatecake2" name="Assando bolo"  />
+			<text id="cookstep_chocolatecheesecake1" name="Derretendo chocolate"  />
+			<text id="cookstep_chocolatecheesecake2" name="Assando bolo"  />
+			<text id="cookstep_chocolatefondue1" name="Derretendo chocolate"  />
 			<text id="cookstep_chocolatefondue2" name="Adicionando creme"  />
-			<text id="cookstep_christmasturkey1" name="Refogar legumes"  />
-			<text id="cookstep_christmasturkey2" name="Assar peru"  />
+			<text id="cookstep_christmasturkey1" name="Refogando legumes"  />
+			<text id="cookstep_christmasturkey2" name="Assando peru"  />
 			<text id="cookstep_cookieplate1" name="Cortando massa"  />
 			<text id="cookstep_cookieplate2" name="Assando biscoitos"  />
 			<text id="cookstep_cornonthecob1" name="Cozinhando milho"  />
@@ -202,24 +202,24 @@ Se você estocá-la, as porções existentes serão perdidas!"  />
 			<text id="cookstep_curry2" name="Acrescentando coco"  />
 			<text id="cookstep_duckalorange1" name="Recheando pato"  />
 			<text id="cookstep_duckalorange2" name="Assando pato"  />
-			<text id="cookstep_easterdish1" name="Derreter chocolate"  />
-			<text id="cookstep_easterdish2" name="Cozinhar ovos"  />
+			<text id="cookstep_easterdish1" name="Derretendo chocolate"  />
+			<text id="cookstep_easterdish2" name="Decorando ovos"  />
 			<text id="cookstep_englishbreakfast1" name="Cozinhando feijão"  />
 			<text id="cookstep_englishbreakfast2" name="Fritando salsichas"  />
-			<text id="cookstep_fishandchips1" name="Fritando"  />
-			<text id="cookstep_fishandchips2" name="Amassando ervilhas"  />
+			<text id="cookstep_fishandchips1" name="Fritando peixe"  />
+			<text id="cookstep_fishandchips2" name="Fritando batatas"  />
 			<text id="cookstep_friedpotatoes1" name="Cozinhando batatas"  />
 			<text id="cookstep_friedpotatoes2" name="Fritando batatas"  />
-			<text id="cookstep_fruitpudding1" name="Deixar massa descansar"  />
-			<text id="cookstep_fruitpudding2" name="Assando"  />
+			<text id="cookstep_fruitpudding1" name="Deixando massa descansar"  />
+			<text id="cookstep_fruitpudding2" name="Assando bolo"  />
 			<text id="cookstep_fruitsalad1" name="Cortando frutas"  />
-			<text id="cookstep_fruitsalad2" name="Misturando molho"  />
+			<text id="cookstep_fruitsalad2" name="Misturando calda"  />
 			<text id="cookstep_greensalad1" name="Fazer molho de salada"  />
-			<text id="cookstep_greensalad2" name="Marinando alface"  />
+			<text id="cookstep_greensalad2" name="Organizando saladas"  />
 			<text id="cookstep_gumbo1" name="Refogando cebolas"  />
 			<text id="cookstep_gumbo2" name="Acrescentando arroz"  />
-			<text id="cookstep_hamburger1" name="Fritando hamburger"  />
-			<text id="cookstep_hamburger2" name="Ajeitando hamburger"  />
+			<text id="cookstep_hamburger1" name="Fritando carne"  />
+			<text id="cookstep_hamburger2" name="Montando hamburger"  />
 			<text id="cookstep_hotcherrywaffles1" name="Cozinhando cerejas"  />
 			<text id="cookstep_hotcherrywaffles2" name="Assando waffles"  />
 			<text id="cookstep_jamspongepudding1" name="Misturando os ingredientes"  />
@@ -228,49 +228,49 @@ Se você estocá-la, as porções existentes serão perdidas!"  />
 			<text id="cookstep_lasagne2" name="Assando lasanha"  />
 			<text id="cookstep_macncheese1" name="Enchendo fôrma"  />
 			<text id="cookstep_macncheese2" name="Assando"  />
-			<text id="cookstep_maplepancakes1" name="Fazendo massa"  />
-			<text id="cookstep_maplepancakes2" name="Fritando panquecas"  />
-			<text id="cookstep_marblecake1" name="Preencher formulário"  />
-			<text id="cookstep_marblecake2" name="Assando"  />
+			<text id="cookstep_maplepancakes1" name="Fazendo a massa"  />
+			<text id="cookstep_maplepancakes2" name="Virando as panquecas"  />
+			<text id="cookstep_marblecake1" name="Enchendo a fôrma"  />
+			<text id="cookstep_marblecake2" name="Assando bolo"  />
 			<text id="cookstep_mexicansalad1" name="Cozinhando feijão"  />
-			<text id="cookstep_mexicansalad2" name="Misturando ingredientes"  />
+			<text id="cookstep_mexicansalad2" name="Misturando os ingredientes"  />
 			<text id="cookstep_minestrone1" name="Refogando legumes"  />
 			<text id="cookstep_minestrone2" name="Acrescentando macarrão"  />
 			<text id="cookstep_mixedsalad1" name="Fazendo molho de salada"  />
-			<text id="cookstep_mixedsalad2" name="Marinando alface"  />
+			<text id="cookstep_mixedsalad2" name="Montando pirâmides de salada"  />
 			<text id="cookstep_nasigoreng1" name="Cozinhando frango"  />
 			<text id="cookstep_nasigoreng2" name="Refogando legumes"  />
 			<text id="cookstep_newyorkcheesecake1" name="Misturando recheio"  />
 			<text id="cookstep_newyorkcheesecake2" name="Assando bolo"  />
 			<text id="cookstep_noodlesalad1" name="Fazendo maionese"  />
 			<text id="cookstep_noodlesalad2" name="Misturando ingredientes"  />
-			<text id="cookstep_omelette1" name="Temperar ovos"  />
-			<text id="cookstep_omelette2" name="Dobrar ovos"  />
+			<text id="cookstep_omelette1" name="Temperando ovos"  />
+			<text id="cookstep_omelette2" name="Dobrando ovos"  />
 			<text id="cookstep_onionsoup1" name="Fritando cebolas"  />
 			<text id="cookstep_onionsoup2" name="Gratinando"  />
 			<text id="cookstep_peasoup1" name="Refogando cebolas"  />
 			<text id="cookstep_peasoup2" name="Cozinhando sopa"  />
-			<text id="cookstep_pizza1" name="Cobrindo pizza"  />
-			<text id="cookstep_pizza2" name="Assando pizza"  />
-			<text id="cookstep_pizzahawaii1" name="Arrumando Pizza"  />
-			<text id="cookstep_pizzahawaii2" name="Assar pizza"  />
+			<text id="cookstep_pizza1" name="Montando pizzas"  />
+			<text id="cookstep_pizza2" name="Assando pizzas"  />
+			<text id="cookstep_pizzahawaii1" name="Colocando abacaxi"  />
+			<text id="cookstep_pizzahawaii2" name="Assando pizzas"  />
 			<text id="cookstep_pizzatonno1" name="Arrumando Pizza"  />
 			<text id="cookstep_pizzatonno2" name="Assar pizza"  />
 			<text id="cookstep_porkroastwithcrackling1" name="Temperando carne"  />
-			<text id="cookstep_porkroastwithcrackling2" name="Fritando"  />
+			<text id="cookstep_porkroastwithcrackling2" name="Assando carne"  />
 			<text id="cookstep_potatosalad1" name="Cozinhando batatas"  />
 			<text id="cookstep_potatosalad2" name="Fazendo maionese"  />
-			<text id="cookstep_redberrycompote1" name="fazer conserva de fruta"  />
-			<text id="cookstep_redberrycompote2" name="Doces"  />
+			<text id="cookstep_redberrycompote1" name="Fazendo geleia"  />
+			<text id="cookstep_redberrycompote2" name="Adoçando"  />
 			<text id="cookstep_ricepudding1" name="Cozinhando arroz"  />
 			<text id="cookstep_ricepudding2" name="Cozinhando purê de maçã"  />
 			<text id="cookstep_roastchicken1" name="Recheando frango"  />
-			<text id="cookstep_roastchicken2" name="Fritando"  />
-			<text id="cookstep_sandwich1" name="Amanteigar pão"  />
-			<text id="cookstep_sandwich2" name="Arrumando torrrada"  />
-			<text id="cookstep_scouse1" name="Cozinhando carne"  />
-			<text id="cookstep_scouse2" name="Acrescentando beterraba"  />
-			<text id="cookstep_spagetti1" name="Fritando carne moída"  />
+			<text id="cookstep_roastchicken2" name="Assando frango"  />
+			<text id="cookstep_sandwich1" name="Tostando o pão"  />
+			<text id="cookstep_sandwich2" name="Arrumando sanduíches"  />
+			<text id="cookstep_scouse1" name="Cozinhando carne lentamente"  />
+			<text id="cookstep_scouse2" name="Misturando com cuidado"  />
+			<text id="cookstep_spagetti1" name="Cozinhando macarrão"  />
 			<text id="cookstep_spagetti2" name="Fazendo molho"  />
 			<text id="cookstep_spareribs1" name="Marinando carne"  />
 			<text id="cookstep_spareribs2" name="Fritando carne"  />
@@ -281,23 +281,23 @@ Se você estocá-la, as porções existentes serão perdidas!"  />
 			<text id="cookstep_stew1" name="Fritando carne"  />
 			<text id="cookstep_stew2" name="Cozinhando"  />
 			<text id="cookstep_stewedrhubarb1" name="Cozinhando ruibarbo"  />
-			<text id="cookstep_stewedrhubarb2" name="Deixando ruibarbo esfriar"  />
-			<text id="cookstep_strawberrycake1" name="Assando o fundo"  />
-			<text id="cookstep_strawberrycake2" name="Decorando bolo"  />
-			<text id="cookstep_strawberrymousse1" name="Passar morangos"  />
-			<text id="cookstep_strawberrymousse2" name="espumar mousse"  />
+			<text id="cookstep_stewedrhubarb2" name="Esfriando ruibarbo"  />
+			<text id="cookstep_strawberrycake1" name="Assando bolos"  />
+			<text id="cookstep_strawberrycake2" name="Decorando bolos"  />
+			<text id="cookstep_strawberrymousse1" name="Misturando morangos"  />
+			<text id="cookstep_strawberrymousse2" name="Montar mousse"  />
 			<text id="cookstep_stuffedpeppers1" name="Recheando pimentão"  />
 			<text id="cookstep_stuffedpeppers2" name="Cozinhando pimentão"  />
 			<text id="cookstep_sundayfeast1" name="Marinando carne"  />
 			<text id="cookstep_sundayfeast2" name="Fritando carne"  />
-			<text id="cookstep_sushi1" name="Recheando sushi"  />
+			<text id="cookstep_sushi1" name="Recheando sushis"  />
 			<text id="cookstep_sushi2" name="Enrolando"  />
 			<text id="cookstep_toadinhole1" name="Misturar massa"  />
 			<text id="cookstep_toadinhole2" name="Assando"  />
 			<text id="cookstep_toast1" name="Cobrindo torrada"  />
 			<text id="cookstep_toast2" name="Fritando torrada"  />
-			<text id="cookstep_tofuburger1" name="fritar hambúrguer de tofu"  />
-			<text id="cookstep_tofuburger2" name="Arrumando hamburger"  />
+			<text id="cookstep_tofuburger1" name="Fritando tofu"  />
+			<text id="cookstep_tofuburger2" name="Montando hambúrger"  />
 			<text id="cookstep_tomatosoup1" name="Fritando cebolas"  />
 			<text id="cookstep_tomatosoup2" name="Cozinhando tomates"  />
 			<text id="cookstep_trifle1" name="Cozinhando pudim"  />
@@ -310,10 +310,10 @@ Se você estocá-la, as porções existentes serão perdidas!"  />
 			<text id="cookstep_veggiecurry2" name="Cozinhando curry"  />
 			<text id="cookstep_veggielasagne1" name="Montando lasanha"  />
 			<text id="cookstep_veggielasagne2" name="Assando lasanha"  />
-			<text id="cookstep_whitechoccheesecake1" name="misturar ingredientes"  />
-			<text id="cookstep_whitechoccheesecake2" name="Assar bolo"  />
-			<text id="cookstep_whitechocmousse1" name="derreter chocolate"  />
-			<text id="cookstep_whitechocmousse2" name="Resfriar mousse"  />
+			<text id="cookstep_whitechoccheesecake1" name="Misturando ingredientes"  />
+			<text id="cookstep_whitechoccheesecake2" name="Assando bolo"  />
+			<text id="cookstep_whitechocmousse1" name="Derretendo chocolate"  />
+			<text id="cookstep_whitechocmousse2" name="Resfriando mousse"  />
 		</cookstep>
 		<coopmission>
 			<text id="coop_desc_long_1" name="Nós oferemos um curso de culinária para aperfeiçoar alguns pratos. Você gostaria de participar?"  />
