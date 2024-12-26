@@ -316,49 +316,49 @@ Se você colocar algo agora, as porções existentes serão perdidas!"  />
 			<text id="cookstep_whitechocmousse2" name="Resfriando mousse"  />
 		</cookstep>
 		<coopmission>
-			<text id="coop_desc_long_1" name="Nós oferemos um curso de culinária para aperfeiçoar alguns pratos. Você gostaria de participar?"  />
-			<text id="coop_desc_long_10" name="Sua família virá te visitar e você tem a grande honra, como chefe de cozinha, de cozinhar a ceia de Natal. Bom apetite!"  />
+			<text id="coop_desc_long_1" name="Nós oferemos um curso de culinária para aperfeiçoar alguns pratos. Você gostaria de oferecer algumas porções como exemplo?"  />
+			<text id="coop_desc_long_10" name="Você tem a grande honra, como chefe de cozinha, de cozinhar a ceia de Natal para muitas famílias. Bom apetite!"  />
 			<text id="coop_desc_long_11" name="Uma guerra de bolos está planejada e nós precisamos de bolos! Por favor, asse tantos quanto forem possíveis..."  />
-			<text id="coop_desc_long_12" name="A cozinha de sopas da cidade está desesperada por sopas. Você poderia preparar alguns sopas que todos apreciariam?"  />
-			<text id="coop_desc_long_13" name="Para uma festa asiática nós precisamos de alguns pratos típicos da Ásia. Você conhece alguma receita?"  />
-			<text id="coop_desc_long_14" name="A conferência nacional de construção irá começar e nós precisaremos de pratos vigorosos. Você tem algo pronto para homens de verdade?"  />
+			<text id="coop_desc_long_12" name="A cozinha de sopas da cidade está desesperada por sopas. Você poderia preparar algumas sopas?"  />
+			<text id="coop_desc_long_13" name="Nós precisamos de alguns pratos típicos da Ásia para uma festa. Você pode ajudar?"  />
+			<text id="coop_desc_long_14" name="A conferência nacional de construção irá começar e nós precisaremos de pratos fortes. Você pode fazer tudo bem caprichado?"  />
 			<text id="coop_desc_long_15" name="Visitantes de Londres estão chegando em breve e gostariam de comer alguns pratos típicos de seu país. Você poderia preparar algo?"  />
 			<text id="coop_desc_long_2" name="Eu estou planejando uma festa em estilo mexicano e ainda preciso da comida adequada. Você pode me ajudar?"  />
-			<text id="coop_desc_long_3" name="Eu vou receber visitas de um clube de esportes de Hamburgo e gostaria que eles se sentissem em casa. Para isso eu preciso de alguém que saiba cozinhar típica comida hamburguesa. Você gostaria de me ajudar?"  />
-			<text id="coop_desc_long_4" name="Eu estou organizando uma grande festa no jardim e preciso de muita comida para satisfazer meus convidados. Eu ouvi dizer que você é um mestre nisso. Gostaria de me ajudar?"  />
-			<text id="coop_desc_long_5" name="O parque de esqui está organizando uma festa após esqui e precisa de muitas delícias. Você poderia ajudar?"  />
-			<text id="coop_desc_long_6" name="Convidei meu chefe para jantar hoje á noite e gostaria de impressioná-lo com um menu de 4 pratos... você poderia me dar uma mão?"  />
-			<text id="coop_desc_long_7" name="Houve um incêndio na cozinha da escola e as crianças não têm o que comer! Você poderia ajudar e cozinhar coisas gostosas?"  />
-			<text id="coop_desc_long_8" name="Meu melhor amigo está fazendo uma festa aniversário e não se lembrou de cuidar da comida. Muitas convidados vão chegar e estarão com muita fome... você poderia nos ajudar?"  />
-			<text id="coop_desc_long_9" name="Foi planejada uma festa com tema italiano. A única coisa que falta é a comida. Como são suas habilidades culinárias?"  />
-			<text id="coop_desc_short_1" name="Torne-se um mestre do espaguetti á bolonhesa!"  />
-			<text id="coop_desc_short_10" name="Coma até a calça estourar!"  />
-			<text id="coop_desc_short_11" name="Todo acerto conta!"  />
+			<text id="coop_desc_long_3" name="Eu vou receber visitas de um clube de esportes de Hamburgo e gostaria que eles se sentissem em casa. Você gostaria de me ajudar fazendo pratos típicos?"  />
+			<text id="coop_desc_long_4" name="Eu estou organizando uma grande festa no jardim e preciso de muita comida para satisfazer meus convidados. Será que um ou uma mestre da cozinha pode me ajudar?"  />
+			<text id="coop_desc_long_5" name="O parque de esqui está organizando uma festa e precisa de muitas delícias. Você poderia ajudar?"  />
+			<text id="coop_desc_long_6" name="Convidei meu chefe para jantar hoje à noite e gostaria de impressioná-lo com um menu de 4 pratos... você poderia me dar uma mão?"  />
+			<text id="coop_desc_long_7" name="Por falta de verba nas escolas, as crianças não têm o que comer! Você poderia ajudar e cozinhar coisas gostosas?"  />
+			<text id="coop_desc_long_8" name="Meu melhor amigo está fazendo uma festa de aniversário e não se lembrou de cuidar da comida. Os convidados vão chegar e estarão com muita fome... você poderia nos ajudar?"  />
+			<text id="coop_desc_long_9" name="Foi planejada uma festa com tema italiano. A única coisa que falta é a comida. Pode nos ajudar nessa parte?"  />
+			<text id="coop_desc_short_1" name="Ajude com exemplos para o nosso curso!"  />
+			<text id="coop_desc_short_10" name="Grandes refeições de presente!"  />
+			<text id="coop_desc_short_11" name="Não fique bolado(a) com esses bolos!"  />
 			<text id="coop_desc_short_12" name="Não há nada como sopa!"  />
 			<text id="coop_desc_short_13" name="Sempre adicione um pouco de arroz!"  />
 			<text id="coop_desc_short_14" name="Nós gostamos de carne e batatas!"  />
 			<text id="coop_desc_short_15" name="Tudo de melhor para os britânicos!"  />
 			<text id="coop_desc_short_2" name="Fiesta Mexicana e tudo que faz parte!"  />
 			<text id="coop_desc_short_3" name="Labskaus para os convidados de Hamburgo!"  />
-			<text id="coop_desc_short_4" name="Torrada Hawaí para a festa no jardim!"  />
-			<text id="coop_desc_short_5" name="Com chocolate até a montanha de queijo!"  />
+			<text id="coop_desc_short_4" name="Torrada Havaí para a festa no jardim!"  />
+			<text id="coop_desc_short_5" name="Do chocolate ao queijo. Que sabor!"  />
 			<text id="coop_desc_short_6" name="O mais fino musse de chocolate!"  />
-			<text id="coop_desc_short_7" name="Cultura através de comida!"  />
-			<text id="coop_desc_short_8" name="Faça pizza e outros para sua festa de aniversário!"  />
+			<text id="coop_desc_short_7" name="A criançada precisa de você!"  />
+			<text id="coop_desc_short_8" name="Salve essa festa de aniversário!"  />
 			<text id="coop_desc_short_9" name="Pizza! Massa! Basta!"  />
 			<text id="coop_title_1" name="CURSO DE CULINÁRIA"  />
 			<text id="coop_title_10" name="É NATAL!"  />
 			<text id="coop_title_11" name="GUERRA DE BOLO!"  />
-			<text id="coop_title_12" name="O FANTOCHE DE SOPAS"  />
+			<text id="coop_title_12" name="SOPAS ENSOPADAS"  />
 			<text id="coop_title_13" name="TUDO ASIÁTICO"  />
-			<text id="coop_title_14" name="ESTÁ FICANDO VIGOROSO!"  />
+			<text id="coop_title_14" name="PRATOS REFORÇADOS!"  />
 			<text id="coop_title_15" name="MUITO BRITÂNICO!"  />
 			<text id="coop_title_2" name="FESTA TEX MEX"  />
 			<text id="coop_title_3" name="FESTA HANSEÁTICA"  />
 			<text id="coop_title_4" name="FESTA NO JARDIM"  />
 			<text id="coop_title_5" name="FESTA PÓS ESQUI"  />
-			<text id="coop_title_6" name="JANTAR"  />
-			<text id="coop_title_7" name="MERENDA ESCOLAR CANCELADA"  />
+			<text id="coop_title_6" name="JANTAR DA CHEFIA"  />
+			<text id="coop_title_7" name="NÃO TEM MERENDA"  />
 			<text id="coop_title_8" name="FESTA DE ANIVERSÁRIO"  />
 			<text id="coop_title_9" name="BUFFET ITALIANO"  />
 		</coopmission>
