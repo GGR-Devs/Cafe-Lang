@@ -652,35 +652,35 @@ Você precisa ter ao menos um prato liberado."  />
 			<text id="courier_errorcode_42" name="Nesse meio tempo o ingrediente também ficou disponível no mercado normal, dê uma olhada rápido!"  />
 			<text id="courier_errorcode_43" name="O serviço de entrega está sobrecarregado e não pode entregar sua mercadoria."  />
 			<text id="createavatar_error" name="Atenção!"  />
-			<text id="createavatar_errorcode_12" name="Esse nome já foi dado."  />
+			<text id="createavatar_errorcode_12" name="Esse nome já foi usado."  />
 			<text id="createavatar_errorcode_15" name="O usuário já possui um Avatar."  />
 			<text id="createavatar_errorcode_18" name="O nome digitado é inválido."  />
 			<text id="createavatar_error_invalide" name="Seu nome de usuário não pode ser vazio ou conter símbolos especiais."  />
 			<text id="createavatar_error_nogender" name="Favor escolher seu personagem!"  />
 			<text id="editbuy_errorcode_1" name="Atenção!"  />
 			<text id="editbuy_errorcode_3" name="Você ainda não atingiu o nível mínimo para poder comprar esse artigo!"  />
-			<text id="editbuy_errorcode_38" name="Você só pode modificar seu Café no modo de construção."  />
+			<text id="editbuy_errorcode_38" name="Você só pode modificar seu Café no Modo Decoração."  />
 			<text id="editbuy_errorcode_39" name="Essa posição é inválida. Posicione o objeto em um espaço livre em seu Café."  />
 			<text id="editextend_errorcode_1" name="Atenção!"  />
-			<text id="editextend_errorcode_38" name="Você só pode modificar seu Café no modo de construção."  />
+			<text id="editextend_errorcode_38" name="Você só pode modificar seu Café no Modo Decoração."  />
 			<text id="editextend_errorcode_53" name="Você já tem essa ampliação."  />
 			<text id="editextend_errorcode_54" name="Você ainda não pode comprar essa ampliação."  />
 			<text id="editmode_errorcode_1" name="Atenção!"  />
 			<text id="editmoveobj_errorcode_1" name="Atenção!"  />
-			<text id="editmoveobj_errorcode_38" name="Você só pode modificar seu Café no modo de construção."  />
+			<text id="editmoveobj_errorcode_38" name="Você só pode modificar seu Café no Modo Decoração."  />
 			<text id="editmoveobj_errorcode_39" name="Essa posição é inválida. Posicione o objeto em um espaço livre em seu Café."  />
 			<text id="editrotateobj_errorcode_1" name="Atenção!"  />
-			<text id="editrotateobj_errorcode_38" name="Você só pode modificar seu Café no modo de construção."  />
+			<text id="editrotateobj_errorcode_38" name="Você só pode modificar seu Café no Modo Decoração."  />
 			<text id="editrotateobj_errorcode_39" name="Essa posição é inválida. Posicione o objeto em um espaço livre em seu Café."  />
 			<text id="editsell_errorcode_1" name="Atenção!"  />
 			<text id="editsell_errorcode_32" name="Esse artigo não se encontra em estoque."  />
-			<text id="editsell_errorcode_38" name="Você só pode modificar seu Café no modo de construção."  />
+			<text id="editsell_errorcode_38" name="Você só pode modificar seu Café no Modo Decoração."  />
 			<text id="editsell_errorcode_39" name="Essa posição é inválida. Posicione o objeto em um espaço livre em seu Café."  />
 			<text id="editstoreobj_errorcode_1" name="Atenção!"  />
 			<text id="editstoreobj_errorcode_37" name="Sobre esse artigo ainda encontra-se um prato!"  />
-			<text id="editstoreobj_errorcode_38" name="Você só pode modificar seu Café no modo de construção."  />
+			<text id="editstoreobj_errorcode_38" name="Você só pode modificar seu Café no Modo Decoração."  />
 			<text id="editstoreobj_errorcode_39" name="Essa posição é inválida. Posicione o objeto em um espaço livre em seu Café."  />
-			<text id="editstoreobj_errorcode_51" name="O campo está vazio, não existe nada á venda aqui."  />
+			<text id="editstoreobj_errorcode_51" name="O campo está vazio, não existe nada à venda aqui."  />
 			<text id="editstoreobj_removefailmin_counter" name="Você precisa de no mínimo um balcão."  />
 			<text id="editstoreobj_removefailmin_fridge" name="Você precisa de no mínimo uma geladeira"  />
 			<text id="editstoreobj_removefailmin_stove" name="Você precisa de no mínimo um fogão."  />
@@ -692,31 +692,31 @@ Você precisa ter ao menos um prato liberado."  />
 			<text id="editstoreobj_removefail_title" name="Atenção!"  />
 			<text id="edit_error" name="Atenção!"  />
 			<text id="error" name="Erro"  />
-			<text id="fullscreenerror_msg_copy" name="Não é possível tela cheia"  />
+			<text id="fullscreenerror_msg_copy" name="Não é possível ativar o modo tela cheia"  />
 			<text id="fullscreenerror_msg_title" name="Tela cheia"  />
 			<text id="gift_error" name="Não é possível!"  />
 			<text id="gift_errorcode_20" name="Não há balcão livre para servir esse prato."  />
 			<text id="gift_errorcode_40" name="Você não tem espaço na sua geladeira para guardar esse ingrediente."  />
-			<text id="gift_errorcode_5" name="Essa ação não pode ser executada. Presente desconhecido"  />
-			<text id="invitefriend_error" name="Erro em convidar amigo."  />
+			<text id="gift_errorcode_5" name="Essa ação não pode ser executada. Presente desconhecido."  />
+			<text id="invitefriend_error" name="Erro ao convidar amigo(a)."  />
 			<text id="invitefriend_errorcode_13" name="Esse jogador já é registrado!"  />
 			<text id="invitefriend_errorcode_14" name="Endereço de e-mail inválido!"  />
 			<text id="jobrefill_error" name="Não é possível!"  />
 			<text id="jobrefill_errorcode_1" name="Suas permissões de trabalho estão esgotadas no momento."  />
 			<text id="jobrefill_errorcode_61" name="Você só pode recarregar uma vez por dia suas permissões de trabalho."  />
 			<text id="joincafe_error" name="Não é possível!"  />
-			<text id="joincafe_errorcode_20" name="Festa particular! Não há espaço para mais ninguém."  />
+			<text id="joincafe_errorcode_20" name="O Café está no Modo Decoração. Aguarde as reformas terminarem!"  />
 			<text id="joincafe_errorcode_21" name="Você já está nesse Café!"  />
 			<text id="joincafe_errorcode_22" name="Esse Café não existe!"  />
 			<text id="level_error" name="Erro no Café. Favor informar o suporte."  />
-			<text id="level_errorcode_1" name="Não foi possível abrir seu Café. Favor dirigir-se ao suporte da Goodgame Studios."  />
+			<text id="level_errorcode_1" name="Não foi possível abrir seu Café. Favor falar com o suporte do GGReborn."  />
 			<text id="login_error" name="Atenção!"  />
 			<text id="login_errorcode_1" name="Erro"  />
 			<text id="login_errorcode_12" name="Usuário já está registrado."  />
 			<text id="login_errorcode_13" name="Usuário já está registrado."  />
 			<text id="login_errorcode_14" name="Nome de usuário ou senha inválidos!"  />
 			<text id="login_errorcode_15" name="Você já fez login"  />
-			<text id="login_errorcode_16" name="Seu Avatar possui um erro. Favor contactar o suporte."  />
+			<text id="login_errorcode_16" name="Seu Avatar possui um erro. Favor falar com o suporte."  />
 			<text id="login_errorcode_wronglogin" name="Nome de usuário ou senha inválidos!"  />
 			<text id="lostpassword_error" name="Atenção!"  />
 			<text id="lostpassword_errorcode_1" name="Erro"  />
@@ -733,7 +733,7 @@ Você precisa ter ao menos um prato liberado."  />
 			<text id="register_errorcode_10" name="A senha fornecida não está correta."  />
 			<text id="register_errorcode_13" name="Já existe um jogador registrado sob esse e-mail, desculpe."  />
 			<text id="register_errorcode_14" name="O endereço de e-mail, que você forneceu não está correto."  />
-			<text id="server_msg_10" name="O servidor será reiniciado. Em breve continuará.
+			<text id="server_msg_10" name="O servidor será reiniciado. Em breve ele vai voltar.
 Por favor, desconecte-se."  />
 			<text id="server_msg_title" name="Mensagem do servidor:"  />
 			<text id="shopbuy_error" name="Sem espaço!"  />
@@ -765,40 +765,40 @@ Por favor, desconecte-se."  />
 			<text id="featureDialog_1_text_0" name="Receba recompensas especiais pelo seu trabalho!"  />
 			<text id="featureDialog_1_text_1" name="Novas decorações na loja!"  />
 			<text id="featureDialog_1_text_2" name="Descubra quem mais joga Café!"  />
-			<text id="featureDialog_20_text_0" name="Torne seus pratos os melhores com as novas Estrelas!"  />
+			<text id="featureDialog_20_text_0" name="Torne seus pratos os melhores com as Estrelas!"  />
 			<text id="featureDialog_20_text_1" name="Última chance para Pratos de Natal e decorações de inverno!\Só resta mais uma semana!"  />
 			<text id="featureDialog_21_text_0" name="Surpreenda seus clientes com pratos novos e deliciosos!"  />
-			<text id="featureDialog_22_text_0" name="Novas realizações estão a sua espera, para torná-lo ainda mais bem-sucedido!"  />
-			<text id="featureDialog_23_text_0" name="Cozinhar acompanhado é mais divertido! Os novos Co-Ops esperam por você!"  />
+			<text id="featureDialog_22_text_0" name="Novas realizações estão a sua espera, para torná-lo(a) ainda mais bem-sucedido(a)!"  />
+			<text id="featureDialog_23_text_0" name="Cozinhar acompanhado é mais divertido! As cooperações esperam por você!"  />
 			<text id="featureDialog_24_text_0" name="O coelhinho da Páscoa deixou algo em seu café!\nEncontre as novas decorações de Páscoa!"  />
 			<text id="featureDialog_24_text_1" name="Aves nunca foram tão lucrativas!\n Descubra o Pato à l&#039;Orange!"  />
 			<text id="featureDialog_25_text_0" name="Você é sortudo? 
-Tente sua sorte no novo assador de muffin!"  />
+Tente sua sorte no homem dos bolinhos!"  />
 			<text id="featureDialog_26_text_0" name="Você tem sorte? Gire a Roda da Fortuna no Mercado!"  />
 			<text id="featureDialog_27_text_0" name="Aumente sua popularidade com a nova máquina de algodão doce! Disponível na roda da fortuna!"  />
 			<text id="featureDialog_28_text_0" name="A máquina de algodão doce está disponível apenas HOJE na roda da fortuna!"  />
 			<text id="featureDialog_29_text_0" name="A partir de agora você poderá trocar a roupa do seu personagem a qualquer momento!"  />
 			<text id="featureDialog_2_text_0" name="Encontre-se e participe do bate-papo com outros jogadores!"  />
-			<text id="featureDialog_2_text_1" name="Nova coleção temática Diner"  />
+			<text id="featureDialog_2_text_1" name="Nova coleção temática Restaurante Retrô!"  />
 			<text id="featureDialog_2_text_2" name="Amplie seu Café ainda mais!"  />
 			<text id="featureDialog_30_text_0" name="Mais espaço em sua geladeira!
-De agora em diante os ingredientes extravagantes não ocuparão mais nenhum espaço em sua geladeira. Você poderá armazenar o quanto você desejar."  />
+De agora em diante os ingredientes especiais não ocuparão mais nenhum espaço em sua geladeira. Você poderá armazenar o quanto você desejar."  />
 			<text id="featureDialog_30_text_1" name="A partir de agora você também poderá comprar suas ampliações com cafédoláres!"  />
 			<text id="featureDialog_31_text_0" name="Mais espaço em sua geladeira! 
-De agora em diante os ingredientes extravagantes não ocuparão mais nenhum espaço em sua geladeira. Você poderá armazenar o quanto você desejar."  />
+De agora em diante os ingredientes especiais não ocuparão mais nenhum espaço em sua geladeira. Você poderá armazenar o quanto você desejar."  />
 			<text id="featureDialog_31_text_1" name="A partir de agora suas ampliações serão gratuitas, se você tiver amigos suficientes!"  />
 			<text id="featureDialog_32_text_0" name="Seus clientes estão com sede?
 Então providencie logo um Frosty e mate a sede de seus clientes!"  />
 			<text id="featureDialog_33_text_0" name="Descubra o omelete!
-O mais novo e super rápido prato no seu livro de receitas!"  />
+O mais novo, lucrativo e super rápido prato no seu livro de receitas!"  />
 			<text id="featureDialog_3_text_0" name="Receba Cafédólares e XP extras com trabalhos de garçon."  />
 			<text id="featureDialog_3_text_1" name="Novos pratos deliciosos que irão impressionar seus clientes!"  />
 			<text id="featureDialog_4_text_0" name="Conheça novos amigos no mercado!"  />
-			<text id="featureDialog_4_text_1" name="Novas decorações de Diner para decorar seu Café mais individualmente!"  />
-			<text id="featureDialog_5_text_0" name="Aumente o lucro e XP dos seus pratos com os novos ingredientes extravagantes!"  />
+			<text id="featureDialog_4_text_1" name="Novas decorações de Restaurante Retrô para decorar seu Café!"  />
+			<text id="featureDialog_5_text_0" name="Aumente o lucro e XP dos seus pratos com os novos ingredientes especiais!"  />
 			<text id="featureDialog_6_text_0" name="Receba e envie presentes através da caixa de presentes!"  />
-			<text id="featureDialog_6_text_1" name="Aumente o lucro e XP dos seus pratos com os novos ingredientes extravagantes!"  />
-			<text id="featureDialog_7_text_0" name="Traga o Faroeste ao seu Café com a nova decoração de Saloon!"  />
+			<text id="featureDialog_6_text_1" name="Aumente o lucro e XP dos seus pratos com os novos ingredientes especiais!"  />
+			<text id="featureDialog_7_text_0" name="Traga o Faroeste ao seu Café com a nova decoração de Velho Oeste!"  />
 			<text id="featureDialog_8_text_0" name="Novos pratos deliciosos que vão fascinar seus clientes!"  />
 			<text id="featureDialog_9_text_0" name="Descubra qual sua posição no ranking."  />
 			<text id="featureDialog_9_text_1" name="Unidos venceremos! Experimentem as novas cooperações!"  />
@@ -818,7 +818,7 @@ O mais novo e super rápido prato no seu livro de receitas!"  />
 Apenas disponível por tempo limitado!"  />
 			<text id="limitedfeatureDialog_time" name="AINDA {0} DIAS!"  />
 			<text id="limitedfeatureDialog_time_single" name="APENAS HOJE!"  />
-			<text id="limitedfeatureDialog_title" name="IMPERDÍVEL!"  />
+			<text id="limitedfeatureDialog_title" name="APROVEITE!"  />
 		</feature>
 		<feeds>
 			<text id="descriptionfeedcafe" name="Eu acabei de instalar o Goodgame Café. Você também gostaria de abrir seu próprio restaurante e cozinhar deliciosos pratos? Então, dê uma olhada!"  />
