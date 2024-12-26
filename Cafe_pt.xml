@@ -827,7 +827,7 @@ Apenas disponível por tempo limitado!"  />
 		<ingame_tooltips>
 			<text id="fridgetooltip_line1" name="Geladeira"  />
 			<text id="fridgetooltip_line2" name="Clique para abrir"  />
-			<text id="muffinmantooltip_line1" name="Assador de muffin"  />
+			<text id="muffinmantooltip_line1" name="Homem dos bolinhos"  />
 			<text id="muffinmantooltip_line2" name="Clique para jogar!"  />
 			<text id="player_action" name="Ações:"  />
 			<text id="player_working" name="Tempo de trabalho"  />
@@ -868,13 +868,13 @@ Apenas disponível por tempo limitado!"  />
 			<text id="ingredient_chili" name="Chili"  />
 			<text id="ingredient_chocolate" name="Chocolate"  />
 			<text id="ingredient_cinnamon" name="Canela"  />
-			<text id="ingredient_cocktailcherry" name="cereja de coquetel"  />
+			<text id="ingredient_cocktailcherry" name="Cereja de Coquetel"  />
 			<text id="ingredient_coconut" name="Cocos"  />
 			<text id="ingredient_cookies" name="Biscoitos"  />
 			<text id="ingredient_coriander" name="Coentro"  />
 			<text id="ingredient_cream" name="Creme de leite"  />
 			<text id="ingredient_cucumber" name="Pepino"  />
-			<text id="ingredient_curryspice" name="Curry"  />
+			<text id="ingredient_curryspice" name="Curry em pó"  />
 			<text id="ingredient_duck" name="Pato"  />
 			<text id="ingredient_eggplant" name="Berinjela"  />
 			<text id="ingredient_eggs" name="Ovos"  />
@@ -884,7 +884,7 @@ Apenas disponível por tempo limitado!"  />
 			<text id="ingredient_horseradish" name="Raíz forte"  />
 			<text id="ingredient_kidney" name="Fígado"  />
 			<text id="ingredient_lettuce" name="Alface"  />
-			<text id="ingredient_maplesyrup" name="Melado"  />
+			<text id="ingredient_maplesyrup" name="Xarope de Bordo"  />
 			<text id="ingredient_meat" name="Carne"  />
 			<text id="ingredient_milk" name="Leite"  />
 			<text id="ingredient_mincemeat" name="Carne moída"  />
@@ -897,7 +897,7 @@ Apenas disponível por tempo limitado!"  />
 			<text id="ingredient_peas" name="Ervilhas"  />
 			<text id="ingredient_pinapple" name="Abacaxi"  />
 			<text id="ingredient_potato" name="Batatas"  />
-			<text id="ingredient_quark" name="Iogurte"  />
+			<text id="ingredient_quark" name="Queijo Quark"  />
 			<text id="ingredient_rhubarb" name="Ruibarbo"  />
 			<text id="ingredient_rice" name="Arroz"  />
 			<text id="ingredient_rosemary" name="Alecrim"  />
