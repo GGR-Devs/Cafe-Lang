@@ -2,37 +2,36 @@
 <!-- goodgamestudios CAFE - pl - 4 -->
 	<cafe>
 		<achievement>
-			<text id="Basic_Achievement_Boughtdeco" name="Apetyczny lokal"  />
-			<text id="Basic_Achievement_Boughtingredients" name="Książę składników"  />
-			<text id="Basic_Achievement_Cookingcount" name="Pilny kucharz"  />
-			<text id="Basic_Achievement_Coopcount" name="Wielozadaniowy muffin"  />
-			<text id="Basic_Achievement_Coopgoldcount" name="Pilny pracownik"  />
-			<text id="Basic_Achievement_Curiercount" name="Ekskluzywna przesyłka"  />
-			<text id="Basic_Achievement_Differentdishes" name="Wirtuoz smaku"  />
-			<text id="Basic_Achievement_Earnedchips" name="Wyśmienity kucharz"  />
-			<text id="Basic_Achievement_Fancycount" name="Fantazyjnie-gotujący szef kuchni"  />
-			<text id="Basic_Achievement_Firenpc" name="Świetny manager"  />
-			<text id="Basic_Achievement_Instantcount" name="Niecierpliwie ekspresowo gotujący"  />
-			<text id="Basic_Achievement_Jobclean" name="Pilny kelner"  />
-			<text id="Basic_Achievement_Jobserve" name="Niesamowity kelner"  />
-			<text id="Basic_Achievement_Masteies" name="Fast food king"  />
-			<text id="Basic_Achievement_Masteriesgold" name="Złoty przedsiębiorca"  />
+			<text id="Basic_Achievement_Boughtdeco" name="Dekoracyjny Guru"  />
+			<text id="Basic_Achievement_Boughtingredients" name="Książę Składników"  />
+			<text id="Basic_Achievement_Cookingcount" name="Pilny Kucharz"  />
+			<text id="Basic_Achievement_Coopcount" name="Wielozadaniowiec"  />
+			<text id="Basic_Achievement_Coopgoldcount" name="Złoty Lider"  />
+			<text id="Basic_Achievement_Curiercount" name="Fantazyjna Przesyłka"  />
+			<text id="Basic_Achievement_Differentdishes" name="Wirtuoz Smaku"  />
+			<text id="Basic_Achievement_Earnedchips" name="Wyśmienity Kucharz"  />
+			<text id="Basic_Achievement_Fancycount" name="Fantazyjny Smakosz"  />
+			<text id="Basic_Achievement_Firenpc" name="Manager Roku"  />
+			<text id="Basic_Achievement_Instantcount" name="Szybciej, szybciej!"  />
+			<text id="Basic_Achievement_Jobclean" name="Pilny Kelner"  />
+			<text id="Basic_Achievement_Jobserve" name="Mistrz Serwowania"  />
+			<text id="Basic_Achievement_Masteies" name="Łowca Gwiazdek"  />
+			<text id="Basic_Achievement_Masteriesgold" name="Perfekcjonista"  />
 			<text id="Basic_Achievement_Muffinmancash" name="Hojny Muffin"  />
 			<text id="Basic_Achievement_Muffinmangold" name="Złoty Muffin"  />
-			<text id="Basic_Achievement_Overcookedfoods" name="Pleśniowy król"  />
-			<text id="Basic_Achievement_Servingcountmeals" name="Konkretne knedle"  />
-			<text id="Basic_Achievement_Servingcountsalads" name="Świeży degustator"  />
-			<text id="Basic_Achievement_Servingcountsnacks" name="Boss przysmaków"  />
-			<text id="Basic_Achievement_Servingcountsoups" name="Płynny szef"  />
-			<text id="Basic_Achievement_Servingcountsweets" name="Pracowity cukiernik"  />
-			<text id="Basic_Achievement_Servingcountvegans" name="Warzywny mistrz"  />
-			<text id="Basic_Achievement_Servingscount" name="Świetny biznesmen"  />
-			<text id="Basic_Achievement_Solditems" name="Dekoracyjny sprzedawca"  />
-			<text id="Basic_Achievement_Spentchips" name="Mistrz wydatków"  />
-			<text id="Basic_Achievement_Spentgold" name="Złoty gastronom"  />
-			<text id="Basic_Achievement_Wheeloffortune" name="Zakręcony gracz"  />
-			<text id="Social_Achievement_Friendscount" name="Gwiazda
-towarzystwa"  />
+			<text id="Basic_Achievement_Overcookedfoods" name="Pleśniowy Imperator"  />
+			<text id="Basic_Achievement_Servingcountmeals" name="Konkretny Kucharz"  />
+			<text id="Basic_Achievement_Servingcountsalads" name="Sałatkowy Koneser"  />
+			<text id="Basic_Achievement_Servingcountsnacks" name="Boss Przystawek"  />
+			<text id="Basic_Achievement_Servingcountsoups" name="Płynny Szef"  />
+			<text id="Basic_Achievement_Servingcountsweets" name="Pracowity Cukiernik"  />
+			<text id="Basic_Achievement_Servingcountvegans" name="Wege-Mistrz"  />
+			<text id="Basic_Achievement_Servingscount" name="Kuchenny Przedsiębiorca"  />
+			<text id="Basic_Achievement_Solditems" name="Dekoracyjny Sprzedawca"  />
+			<text id="Basic_Achievement_Spentchips" name="Mistrz Wydatków"  />
+			<text id="Basic_Achievement_Spentgold" name="Złoty Inwestor"  />
+			<text id="Basic_Achievement_Wheeloffortune" name="Zakręcony Gracz"  />
+			<text id="Social_Achievement_Friendscount" name="Prawdziwa Gwiazda"  />
 		</achievement>
 		<alerts>
 			<text id="alert_addcash_copy" name="Tutaj możesz kupić złoto/café dolary"  />
